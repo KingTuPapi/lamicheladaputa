@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-01 16:24:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-04-01 01:59:10 +0000"
@@ -410,10 +416,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-04-01 16:25:29 +0000",
+      "shrubland": "2025-04-01 16:29:23 +0000",
       "scrubland": "2025-04-01 16:00:32 +0000",
       "old_growth_woodland": "2025-04-01 16:16:03 +0000",
       "mediterranean_forest": "2025-04-01 15:56:43 +0000",
-      "wasteland": "2025-04-01 15:54:15 +0000"
+      "wasteland": "2025-04-01 15:54:15 +0000",
+      "rainforest": "2025-04-01 16:24:10 +0000"
     },
     "done": false
   },
@@ -597,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-01 16:23:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/black_upholstered_mangrove_stool": {
     "criteria": {
       "has_black_wool": "2025-04-01 16:18:01 +0000"
@@ -612,6 +627,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-01 16:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-01 16:24:34 +0000"
     },
     "done": true
   },
@@ -765,6 +786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 16:28:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/hay_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
@@ -786,6 +813,12 @@
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-01 15:56:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_coals": "2025-04-01 16:27:11 +0000"
     },
     "done": true
   },
@@ -1135,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-01 16:23:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
@@ -1231,6 +1270,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 16:28:15 +0000"
     },
     "done": true
   },
@@ -1442,6 +1487,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-01 16:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 16:28:15 +0000"
     },
     "done": true
   },
@@ -1735,6 +1786,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cookie": "2025-04-01 16:28:52 +0000",
       "apple": "2025-04-01 16:04:46 +0000",
       "bread": "2025-04-01 15:57:59 +0000"
     },
@@ -2503,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-01 16:27:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_crimson_stool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -2942,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-01 16:24:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
@@ -2957,6 +3021,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-04-01 16:27:11 +0000"
     },
     "done": true
   },
