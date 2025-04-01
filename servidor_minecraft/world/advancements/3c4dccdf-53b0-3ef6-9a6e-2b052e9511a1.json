@@ -781,15 +781,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2025-04-01 18:00:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_jungle_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-04-01 18:00:44 +0000"
     },
     "done": true
   },
@@ -1929,15 +1929,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
-    "criteria": {
-      "has_resource": "2025-04-01 18:08:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-04-01 18:08:30 +0000"
     },
     "done": true
   },
@@ -1983,15 +1983,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-04-01 18:00:44 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/purple_dye_from_briskbloom": {
     "criteria": {
       "has_item": "2025-04-01 17:54:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-04-01 18:00:44 +0000"
     },
     "done": true
   },
@@ -2067,15 +2067,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_blocks/raw_ventium_block_from_raw_ventium": {
-    "criteria": {
-      "has_item": "2025-04-01 18:05:05 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_crafting_table": {
     "criteria": {
       "has_item": "2025-04-01 17:54:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/raw_ventium_block_from_raw_ventium": {
+    "criteria": {
+      "has_item": "2025-04-01 18:05:05 +0000"
     },
     "done": true
   },
