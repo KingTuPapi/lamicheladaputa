@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-01 18:04:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-04-01 15:45:42 +0000"
@@ -470,6 +476,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-01 16:20:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-01 18:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-01 17:36:57 +0000"
@@ -623,9 +641,27 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-01 18:04:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-01 16:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -902,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 15:46:19 +0000"
@@ -1119,6 +1161,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-01 16:02:17 +0000"
@@ -1194,6 +1242,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 16:00:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -1380,6 +1434,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-01 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -1599,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 15:46:19 +0000"
@@ -1671,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-01 18:09:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
@@ -1692,6 +1764,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-04-01 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-01 18:09:18 +0000"
     },
     "done": true
   },
@@ -1916,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
     "criteria": {
       "has_item": "2025-04-01 15:59:31 +0000"
@@ -2115,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-01 17:59:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
@@ -2136,6 +2226,12 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-04-01 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -2394,6 +2490,12 @@
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-04-01 15:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-01 18:04:29 +0000"
     },
     "done": true
   },
@@ -2774,6 +2876,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:17:26 +0000"
@@ -2789,6 +2897,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/black_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -3329,6 +3443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-01 17:55:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-04-01 16:16:19 +0000"
@@ -3668,6 +3788,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -4020,6 +4146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
@@ -4059,6 +4191,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-01 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
@@ -4494,6 +4632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-01 18:04:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:22:36 +0000"
@@ -4665,6 +4809,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-01 18:06:18 +0000"
     },
     "done": true
   },
