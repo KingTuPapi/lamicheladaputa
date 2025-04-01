@@ -1112,3 +1112,89 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 17:01:39.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
 [01Apr2025 17:01:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
 [01Apr2025 17:02:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 was slain by Zombie
+[01Apr2025 17:04:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Suit Up]
+[01Apr2025 17:04:48.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Diamonds!]
+[01Apr2025 17:05:01.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e8e3b[id=<null>,name=Dinosaur_Meap,properties={},legacy=false] (/127.248.64.214:57569) lost connection: Disconnected
+[01Apr2025 17:05:55.053] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@771be9bb
+[01Apr2025 17:05:55.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:56487] logged in with entity id 265833 at (-955.4718786584606, 64.0, -499.8584017511678)
+[01Apr2025 17:05:55.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[01Apr2025 17:05:55.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[01Apr2025 17:05:55.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[01Apr2025 17:05:55.062] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[01Apr2025 17:05:55.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[01Apr2025 17:05:55.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[01Apr2025 17:05:55.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[01Apr2025 17:05:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[01Apr2025 17:05:55.090] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:05:55.091] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[01Apr2025 17:06:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Diamonds!]
+[01Apr2025 17:06:49.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Disconnected
+[01Apr2025 17:06:49.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[01Apr2025 17:14:53.688] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Apr2025 17:16:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set own game mode to Creative Mode]
+[01Apr2025 17:17:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set own game mode to Survival Mode]
+[01Apr2025 17:19:17.510] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-55, 8], pos: BlockPos{x=-880, y=61, z=130}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@54dd2cca: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@185207c1}
+[01Apr2025 17:22:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported DarkChino27 to KingTuPapi]
+[01Apr2025 17:24:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ice Bucket Challenge]
+[01Apr2025 17:25:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported DarkChino27 to KingTuPapi]
+[01Apr2025 17:26:11.504] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Apr2025 17:26:11.542] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Apr2025 17:26:11.570] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key range in MapLike[{event_delay:0,selector:{tick:-1L}}]; No key source in MapLike[{event_delay:0,selector:{tick:-1L}}]
+[01Apr2025 17:26:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set the time to 1000]
+[01Apr2025 17:32:00.754] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Apr2025 17:34:57.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkChino27 lost connection: Timed out
+[01Apr2025 17:34:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 left the game
+[01Apr2025 17:35:01.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50fb773
+[01Apr2025 17:35:02.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkChino27[/127.57.112.79:49645] logged in with entity id 309475 at (-138.52887473966086, 119.0, 520.6999999880791)
+[01Apr2025 17:35:02.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DarkChino27
+[01Apr2025 17:35:02.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DarkChino27
+[01Apr2025 17:35:02.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DarkChino27
+[01Apr2025 17:35:02.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DarkChino27
+[01Apr2025 17:35:02.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DarkChino27
+[01Apr2025 17:35:02.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DarkChino27
+[01Apr2025 17:35:02.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DarkChino27
+[01Apr2025 17:35:02.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 joined the game
+[01Apr2025 17:35:02.068] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:35:02.070] [Server thread/INFO] [Jade/]: Syncing config to DarkChino27 (cf11b5f3-d33a-3d9c-bde3-be08e21cf408)
+[01Apr2025 17:35:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 fell from a high place
+[01Apr2025 17:35:32.556] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c774faf
+[01Apr2025 17:35:32.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:49017] logged in with entity id 310022 at (-952.1490767886964, 68.0, -499.31599566346074)
+[01Apr2025 17:35:32.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[01Apr2025 17:35:32.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[01Apr2025 17:35:32.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[01Apr2025 17:35:32.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[01Apr2025 17:35:32.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[01Apr2025 17:35:32.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[01Apr2025 17:35:32.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[01Apr2025 17:35:32.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[01Apr2025 17:35:32.588] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:35:32.589] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[01Apr2025 17:36:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to KingTuPapi]
+[01Apr2025 17:40:46.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Acquire Hardware]
+[01Apr2025 17:40:53.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Suit Up]
+[01Apr2025 17:43:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [What a Deal!]
+[01Apr2025 17:43:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set the time to 1000]
+[01Apr2025 17:44:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to DarkChino27]
+[01Apr2025 17:48:19.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Forever Bright?]
+[01Apr2025 17:48:19.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[01Apr2025 17:48:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Forever Bright?]
+[01Apr2025 17:48:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [A Bright Future!]
+[01Apr2025 17:48:38.488] [Worker-Main-17/WARN] [ModernFix/]: The namespace takesapillage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 17:48:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Forever Bright?]
+[01Apr2025 17:50:34.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
+[01Apr2025 17:50:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[01Apr2025 17:50:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Light Up The World!]
+[01Apr2025 17:50:40.657] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6de8c302
+[01Apr2025 17:50:40.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:34873] logged in with entity id 333117 at (-121.5, 124.05, 529.5)
+[01Apr2025 17:50:40.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[01Apr2025 17:50:40.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[01Apr2025 17:50:40.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[01Apr2025 17:50:40.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[01Apr2025 17:50:40.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[01Apr2025 17:50:40.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[01Apr2025 17:50:40.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[01Apr2025 17:50:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[01Apr2025 17:50:40.698] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:50:40.699] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[01Apr2025 17:53:02.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to KingTuPapi]
+[01Apr2025 17:53:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Enchanter]
