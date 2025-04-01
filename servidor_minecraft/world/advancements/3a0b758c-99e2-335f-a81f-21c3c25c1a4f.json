@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-04-01 16:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-01 16:06:41 +0000"
@@ -802,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-01 16:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-01 16:06:40 +0000"
@@ -1243,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-01 16:38:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/gray_dark_oak_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-01 16:07:50 +0000"
@@ -1348,6 +1366,12 @@
   "minecraft:recipes/transportation/charred_boat": {
     "criteria": {
       "in_water": "2025-04-01 16:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-01 16:38:37 +0000"
     },
     "done": true
   },
