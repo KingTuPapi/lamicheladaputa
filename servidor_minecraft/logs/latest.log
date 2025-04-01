@@ -1089,3 +1089,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 16:52:17.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/160316, l='ServerLevel[world]', x=-2107.85, y=62.02, z=-694.85] died, message: 'Unemployed drowned'
 [01Apr2025 16:52:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Acquire Hardware]
 [01Apr2025 16:52:42.309] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Apr2025 16:53:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has made the advancement [Diamonds!]
+[01Apr2025 16:54:40.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EctorLavo lost connection: Disconnected
+[01Apr2025 16:54:40.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo left the game
+[01Apr2025 16:55:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Isn't It Iron Pick]
+[01Apr2025 16:56:07.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]
+[01Apr2025 16:56:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Not Today, Thank You]
+[01Apr2025 16:57:00.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set the time to 1000]
+[01Apr2025 16:57:14.485] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[01Apr2025 17:01:09.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@545690c1
+[01Apr2025 17:01:09.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:58021] logged in with entity id 253808 at (-955.4718786584606, 64.0, -499.8584017511678)
+[01Apr2025 17:01:09.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[01Apr2025 17:01:09.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[01Apr2025 17:01:09.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[01Apr2025 17:01:09.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[01Apr2025 17:01:09.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[01Apr2025 17:01:09.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[01Apr2025 17:01:09.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[01Apr2025 17:01:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[01Apr2025 17:01:09.835] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 17:01:09.836] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[01Apr2025 17:01:39.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
+[01Apr2025 17:01:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[01Apr2025 17:02:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 was slain by Zombie
