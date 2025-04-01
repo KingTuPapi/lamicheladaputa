@@ -1,0 +1,675 @@
+[01Apr2025 15:41:50.808] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[01Apr2025 15:41:50.818] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[01Apr2025 15:41:53.516] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lamicheladaputa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[01Apr2025 15:41:54.221] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[01Apr2025 15:41:54.224] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Apr2025 15:41:54.226] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Apr2025 15:41:54.232] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Apr2025 15:41:55.051] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[01Apr2025 15:41:57.733] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Apr2025 15:41:57.904] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Apr2025 15:41:57.962] [main/WARN] [mixin/]: Reference map 'eureka-1192-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.049] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.19.2: 87 options available, 0 override(s) found
+[01Apr2025 15:41:58.050] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[01Apr2025 15:41:58.068] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[01Apr2025 15:41:58.096] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 143 options available, 0 override(s) found
+[01Apr2025 15:41:58.106] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.107] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.121] [main/WARN] [mixin/]: Reference map 'octolib.refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.128] [main/WARN] [mixin/]: Reference map 'untamedwilds.refmap.json' for untamedwilds.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.161] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Apr2025 15:41:58.566] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[01Apr2025 15:41:58.567] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin
+[01Apr2025 15:41:58.883] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[01Apr2025 15:41:58.883] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.TomatoVineBlock was not found supplementaries.mixins.json:CompatFarmersDelightMixin
+[01Apr2025 15:41:59.286] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/deployer/DeployerHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.deployer.DeployerHandler)
+[01Apr2025 15:41:59.287] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.deployer.DeployerHandler was not found valkyrienskies-common.mixins.json:mod_compat.create.IMixinDeployerHandler
+[01Apr2025 15:41:59.289] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/deployer/DeployerMovementBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.deployer.DeployerMovementBehaviour)
+[01Apr2025 15:41:59.289] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.deployer.DeployerMovementBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.IMixinDeployerMovementBehaviour
+[01Apr2025 15:41:59.290] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/fan/AirCurrent (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.fan.AirCurrent)
+[01Apr2025 15:41:59.291] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.fan.AirCurrent was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinAirCurrent
+[01Apr2025 15:41:59.292] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/fan/AirFlowParticle (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.fan.AirFlowParticle)
+[01Apr2025 15:41:59.292] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.fan.AirFlowParticle was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinAirFlowParticle
+[01Apr2025 15:41:59.294] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/belt/transport/BeltMovementHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler)
+[01Apr2025 15:41:59.294] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinBeltMovementHandler
+[01Apr2025 15:41:59.296] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/Contraption (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.Contraption)
+[01Apr2025 15:41:59.296] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.Contraption was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinContraption
+[01Apr2025 15:41:59.298] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/ContraptionCollider (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.ContraptionCollider)
+[01Apr2025 15:41:59.301] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.ContraptionCollider was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinContraptionCollider
+[01Apr2025 15:41:59.303] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/depot/EntityLauncher (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.depot.EntityLauncher)
+[01Apr2025 15:41:59.303] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.depot.EntityLauncher was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinEntityLauncher
+[01Apr2025 15:41:59.305] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/redstone/link/RedstoneLinkNetworkHandler (java.lang.ClassNotFoundException: com.simibubi.create.content.redstone.link.RedstoneLinkNetworkHandler)
+[01Apr2025 15:41:59.305] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.redstone.link.RedstoneLinkNetworkHandler was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinRedstoneLinkNetworkHandler
+[01Apr2025 15:41:59.307] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/depot/SharedDepotBlockMethods (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods)
+[01Apr2025 15:41:59.307] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods was not found valkyrienskies-common.mixins.json:mod_compat.create.MixinSharedDepotBlockMethods
+[01Apr2025 15:41:59.309] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/collision/Matrix3d (java.lang.ClassNotFoundException: com.simibubi.create.foundation.collision.Matrix3d)
+[01Apr2025 15:41:59.309] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.collision.Matrix3d was not found valkyrienskies-common.mixins.json:mod_compat.create.accessors.Matrix3dAccessor
+[01Apr2025 15:41:59.311] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/outliner/Outline$OutlineParams (java.lang.ClassNotFoundException: com.simibubi.create.foundation.outliner.Outline$OutlineParams)
+[01Apr2025 15:41:59.311] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.outliner.Outline$OutlineParams was not found valkyrienskies-common.mixins.json:mod_compat.create.accessors.OutlineParamsAccessor
+[01Apr2025 15:41:59.313] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingMovementBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.base.BlockBreakingMovementBehaviour)
+[01Apr2025 15:41:59.313] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.base.BlockBreakingMovementBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.behaviour.MixinBlockBreakingMovementBehaviour
+[01Apr2025 15:41:59.315] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/blockEntity/behaviour/filtering/FilteringBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.foundation.blockEntity.behaviour.filtering.FilteringBehaviour)
+[01Apr2025 15:41:59.316] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.blockEntity.behaviour.filtering.FilteringBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.behaviour.MixinFilteringBehaviour
+[01Apr2025 15:41:59.317] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/redstone/link/LinkBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.redstone.link.LinkBehaviour)
+[01Apr2025 15:41:59.318] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.redstone.link.LinkBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.behaviour.MixinLinkBehaviour
+[01Apr2025 15:41:59.320] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/blockEntity/behaviour/scrollValue/ScrollValueBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.foundation.blockEntity.behaviour.scrollValue.ScrollValueBehaviour)
+[01Apr2025 15:41:59.320] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.blockEntity.behaviour.scrollValue.ScrollValueBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.behaviour.MixinScrollValueBehaviour
+[01Apr2025 15:41:59.322] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/blockEntity/behaviour/filtering/SidedFilteringBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.foundation.blockEntity.behaviour.filtering.SidedFilteringBehaviour)
+[01Apr2025 15:41:59.323] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.blockEntity.behaviour.filtering.SidedFilteringBehaviour was not found valkyrienskies-common.mixins.json:mod_compat.create.behaviour.MixinSidedFilteringBehaviour
+[01Apr2025 15:41:59.325] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.crusher.CrushingWheelBlock)
+[01Apr2025 15:41:59.326] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.crusher.CrushingWheelBlock was not found valkyrienskies-common.mixins.json:mod_compat.create.block.MixinCrushingWheelBlock
+[01Apr2025 15:41:59.328] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/depot/EjectorBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.depot.EjectorBlock)
+[01Apr2025 15:41:59.328] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.depot.EjectorBlock was not found valkyrienskies-common.mixins.json:mod_compat.create.block.MixinEjectorBlock
+[01Apr2025 15:41:59.331] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/redstone/contact/RedstoneContactBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.redstone.contact.RedstoneContactBlock)
+[01Apr2025 15:41:59.331] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.redstone.contact.RedstoneContactBlock was not found valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock
+[01Apr2025 15:41:59.333] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/chassis/StickerBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.chassis.StickerBlock)
+[01Apr2025 15:41:59.333] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.chassis.StickerBlock was not found valkyrienskies-common.mixins.json:mod_compat.create.block.MixinStickerBlock
+[01Apr2025 15:41:59.335] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/bearing/MechanicalBearingBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.bearing.MechanicalBearingBlockEntity)
+[01Apr2025 15:41:59.335] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.bearing.MechanicalBearingBlockEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.blockentity.IMixinMechanicalBearingTileEntity
+[01Apr2025 15:41:59.337] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/crusher/CrushingWheelControllerBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.crusher.CrushingWheelControllerBlockEntity)
+[01Apr2025 15:41:59.337] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.crusher.CrushingWheelControllerBlockEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.blockentity.MixinCrushingWheelControllerTileEntity
+[01Apr2025 15:41:59.339] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/depot/EjectorBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.depot.EjectorBlockEntity)
+[01Apr2025 15:41:59.339] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.depot.EjectorBlockEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.blockentity.MixinEjectorTileEntity
+[01Apr2025 15:41:59.341] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/fan/EncasedFanBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.fan.EncasedFanBlockEntity)
+[01Apr2025 15:41:59.341] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.fan.EncasedFanBlockEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.blockentity.MixinEncasedFanTileEntity
+[01Apr2025 15:41:59.343] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/blockEntity/behaviour/ValueBox (java.lang.ClassNotFoundException: com.simibubi.create.foundation.blockEntity.behaviour.ValueBox)
+[01Apr2025 15:41:59.343] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.blockEntity.behaviour.ValueBox was not found valkyrienskies-common.mixins.json:mod_compat.create.client.MixinValueBox
+[01Apr2025 15:41:59.345] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/AbstractContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.AbstractContraptionEntity)
+[01Apr2025 15:41:59.345] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.AbstractContraptionEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.entity.MixinAbstractContraptionEntity
+[01Apr2025 15:41:59.347] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/trains/entity/CarriageContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.trains.entity.CarriageContraptionEntity)
+[01Apr2025 15:41:59.347] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.trains.entity.CarriageContraptionEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.entity.MixinCarriageContraptionEntity
+[01Apr2025 15:41:59.349] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/ControlledContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.ControlledContraptionEntity)
+[01Apr2025 15:41:59.349] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.ControlledContraptionEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.entity.MixinControlledContraptionEntity
+[01Apr2025 15:41:59.351] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/actors/seat/SeatEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.actors.seat.SeatEntity)
+[01Apr2025 15:41:59.351] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.actors.seat.SeatEntity was not found valkyrienskies-common.mixins.json:mod_compat.create.entity.MixinSeatEntity
+[01Apr2025 15:41:59.353] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/actors/trainControls/ControlsInputPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.actors.trainControls.ControlsInputPacket)
+[01Apr2025 15:41:59.353] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.actors.trainControls.ControlsInputPacket was not found valkyrienskies-common.mixins.json:mod_compat.create.packets.MixinControlsInputPacket
+[01Apr2025 15:41:59.356] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/trains/track/CurvedTrackDestroyPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.trains.track.CurvedTrackDestroyPacket)
+[01Apr2025 15:41:59.356] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.trains.track.CurvedTrackDestroyPacket was not found valkyrienskies-common.mixins.json:mod_compat.create.packets.MixinCurvedTrackDestroyPacket
+[01Apr2025 15:41:59.358] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/glue/SuperGlueRemovalPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.glue.SuperGlueRemovalPacket)
+[01Apr2025 15:41:59.358] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.glue.SuperGlueRemovalPacket was not found valkyrienskies-common.mixins.json:mod_compat.create.packets.MixinSuperGlueRemovalPacket
+[01Apr2025 15:41:59.360] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/networking/BlockEntityConfigurationPacket (java.lang.ClassNotFoundException: com.simibubi.create.foundation.networking.BlockEntityConfigurationPacket)
+[01Apr2025 15:41:59.361] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.networking.BlockEntityConfigurationPacket was not found valkyrienskies-common.mixins.json:mod_compat.create.packets.MixinTileEntityConfigurationPacket
+[01Apr2025 15:41:59.362] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/trains/entity/TrainRelocationPacket (java.lang.ClassNotFoundException: com.simibubi.create.content.trains.entity.TrainRelocationPacket)
+[01Apr2025 15:41:59.362] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.trains.entity.TrainRelocationPacket was not found valkyrienskies-common.mixins.json:mod_compat.create.packets.MixinTrainRelocationPacket
+[01Apr2025 15:41:59.364] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/actors/seat/SeatBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.actors.seat.SeatBlock)
+[01Apr2025 15:41:59.365] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.actors.seat.SeatBlock was not found valkyrienskies-common.mixins.json:mod_compat.create.pr.MixinSeatBlock
+[01Apr2025 15:41:59.367] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[01Apr2025 15:41:59.368] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[01Apr2025 15:41:59.370] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[01Apr2025 15:41:59.382] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[01Apr2025 15:41:59.385] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[01Apr2025 15:41:59.388] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[01Apr2025 15:41:59.390] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[01Apr2025 15:41:59.392] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.base.BlockBreakingKineticBlockEntity)
+[01Apr2025 15:41:59.392] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.base.BlockBreakingKineticBlockEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
+[01Apr2025 15:41:59.394] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/kinetics/millstone/MillstoneBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.kinetics.millstone.MillstoneBlock)
+[01Apr2025 15:41:59.394] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.kinetics.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[01Apr2025 15:41:59.396] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/processing/basin/BasinBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.processing.basin.BasinBlock)
+[01Apr2025 15:41:59.396] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.processing.basin.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[01Apr2025 15:41:59.398] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.chute.AbstractChuteBlock)
+[01Apr2025 15:41:59.398] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[01Apr2025 15:41:59.400] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/ControlledContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.ControlledContraptionEntity)
+[01Apr2025 15:41:59.400] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.ControlledContraptionEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinControlledContraptionEntity
+[01Apr2025 15:41:59.401] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[01Apr2025 15:41:59.403] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[01Apr2025 15:41:59.405] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[01Apr2025 15:41:59.407] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[01Apr2025 15:41:59.408] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[01Apr2025 15:41:59.665] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[01Apr2025 15:42:00.371] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (16.18 s after launch)
+[01Apr2025 15:42:00.558] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[01Apr2025 15:42:00.559] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[01Apr2025 15:42:03.197] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2822 milliseconds
+[01Apr2025 15:42:06.060] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
+[01Apr2025 15:42:06.441] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[01Apr2025 15:42:06.492] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easyanvils
+[01Apr2025 15:42:07.348] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[01Apr2025 15:42:07.460] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@1306aa7d
+[01Apr2025 15:42:07.462] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@734cad35
+[01Apr2025 15:42:07.489] [modloading-worker-0/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[01Apr2025 15:42:07.590] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/TileTestMachine; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.590] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/RecipeTestMachine; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.591] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/BlockTestMachine; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.591] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/items/ItemWrench; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.591] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/SourceTypesHL; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.591] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/LevelActionTypesHL; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.591] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/api/forge/ContainerAPI; from hammerlib to register it's stuff.
+[01Apr2025 15:42:07.654] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.net.Network
+[01Apr2025 15:42:07.925] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Apr2025 15:42:07.931] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[01Apr2025 15:42:08.032] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easymagic
+[01Apr2025 15:42:08.043] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@183ade54 on thread Thread[modloading-worker-0,5,main]
+[01Apr2025 15:42:08.045] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar%2351!/:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23267!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:26) ~[obscure_api-15.jar%23267!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:42) ~[obscure_api-15.jar%23267!/:15]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:68) ~[obscure_api-15.jar%23267!/:15]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.19.2-43.4.2.jar%23311!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:122) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[01Apr2025 15:42:08.048] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[01Apr2025 15:42:08.306] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[01Apr2025 15:42:08.306] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[01Apr2025 15:42:08.436] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[01Apr2025 15:42:08.443] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
+[01Apr2025 15:42:08.444] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
+[01Apr2025 15:42:08.447] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
+[01Apr2025 15:42:08.449] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
+[01Apr2025 15:42:08.450] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
+[01Apr2025 15:42:08.759] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[01Apr2025 15:42:08.900] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[01Apr2025 15:42:08.900] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Apr2025 15:42:09.112] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[01Apr2025 15:42:09.117] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[01Apr2025 15:42:09.470] [modloading-worker-0/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[01Apr2025 15:42:12.482] [main/INFO] [moonlight/]: Initialized block sets in 26ms
+[01Apr2025 15:42:12.540] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class it/hurts/sskirillss/octolib/particle/BasicColoredParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@183ade54 on thread Thread[main,5,main]
+[01Apr2025 15:42:12.541] [main/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar%2351!/:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at it.hurts.sskirillss.octolib.particle.BasicColoredParticle$Options.<clinit>(BasicColoredParticle.java:270) ~[octolib-1.19.2-0.3.jar%23268!/:1.19.2-0.3]
+	at it.hurts.sskirillss.octolib.particle.BasicColoredParticle$Factory$Type.<init>(BasicColoredParticle.java:328) ~[octolib-1.19.2-0.3.jar%23268!/:1.19.2-0.3]
+	at net.minecraftforge.registries.DeferredRegister.lambda$addEntries$1(DeferredRegister.java:388) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.registries.DeferredRegister.addEntries(DeferredRegister.java:388) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.registries.DeferredRegister$EventDispatcher.handleEvent(DeferredRegister.java:330) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.registries.__EventDispatcher_handleEvent_RegisterEvent.invoke(.dynamic) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:114) ~[javafmllanguage-1.19.2-43.4.2.jar%23311!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$35(ModLoader.java:315) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:225) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:313) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:341) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$23(ModLoader.java:207) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:207) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$14(ModLoader.java:185) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:185) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23314!/:?]
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23309!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[01Apr2025 15:42:14.111] [modloading-worker-0/INFO] [HammerLib/]: Setup HammerLib networking!
+[01Apr2025 15:42:14.145] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
+[01Apr2025 15:42:14.189] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Apr2025 15:42:14.191] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Apr2025 15:42:14.191] [modloading-worker-0/INFO] [terrablender/]: Registered region wildlands:bayou to index 1 for type OVERWORLD
+[01Apr2025 15:42:14.192] [modloading-worker-0/INFO] [terrablender/]: Registered region wildlands:burnt_forest to index 2 for type OVERWORLD
+[01Apr2025 15:42:14.206] [modloading-worker-0/INFO] [com.blocklegend001.expore.ExpOre/]: ExpOre Loaded
+[01Apr2025 15:42:14.240] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Registering Packets!
+[01Apr2025 15:42:14.240] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[01Apr2025 15:42:14.287] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[01Apr2025 15:42:14.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[01Apr2025 15:42:14.668] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[01Apr2025 15:42:14.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.20 Target: null
+[01Apr2025 15:42:14.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[01Apr2025 15:42:14.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[01Apr2025 15:42:14.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Starting version check at https://api.modrinth.com/updates/PlkSuVtM/forge_updates.json
+[01Apr2025 15:42:14.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Found status: UP_TO_DATE Current: 19.3.82 Target: null
+[01Apr2025 15:42:14.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[01Apr2025 15:42:14.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[01Apr2025 15:42:14.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[01Apr2025 15:42:14.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: AHEAD Current: 1.19.2-1.5.9 Target: null
+[01Apr2025 15:42:14.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[01Apr2025 15:42:14.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[01Apr2025 15:42:14.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[01Apr2025 15:42:15.058] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 2, 0, 0, 0, 0, 0, 1] ms
+[01Apr2025 15:42:15.060] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[01Apr2025 15:42:15.067] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[01Apr2025 15:42:15.069] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[01Apr2025 15:42:15.070] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[01Apr2025 15:42:15.074] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01Apr2025 15:42:15.096] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[01Apr2025 15:42:15.096] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[01Apr2025 15:42:15.096] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[01Apr2025 15:42:15.097] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01Apr2025 15:42:15.097] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01Apr2025 15:42:15.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: AHEAD Current: 3.2.6c Target: null
+[01Apr2025 15:42:15.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[01Apr2025 15:42:15.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.19.2-2.4.20 Target: null
+[01Apr2025 15:42:15.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[01Apr2025 15:42:15.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
+[01Apr2025 15:42:15.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[01Apr2025 15:42:15.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[01Apr2025 15:42:15.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[01Apr2025 15:42:15.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[01Apr2025 15:42:15.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[01Apr2025 15:42:15.175] [main/INFO] [moonlight/]: Initialized color sets in 74ms
+[01Apr2025 15:42:15.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[01Apr2025 15:42:15.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[01Apr2025 15:42:15.221] [main/INFO] [moonlight/]: Initialized color sets in 45ms
+[01Apr2025 15:42:15.509] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[01Apr2025 15:42:15.515] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined constant(0xFFFFFF0F) foil provider
+[01Apr2025 15:42:15.515] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined dynamic(org.zeith.hammerlib.client.CustomFoilConfigs$$Lambda$19868/0x000077198a091d80@204d5136) foil provider
+[01Apr2025 15:42:15.568] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at org.zeith.hammerlib.compat.jade.GetWaila
+[01Apr2025 15:42:15.572] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01Apr2025 15:42:15.580] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01Apr2025 15:42:15.585] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01Apr2025 15:42:15.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[01Apr2025 15:42:15.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[01Apr2025 15:42:15.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[01Apr2025 15:42:15.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[01Apr2025 15:42:15.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 4.3.3 Target: null
+[01Apr2025 15:42:15.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[01Apr2025 15:42:15.672] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[01Apr2025 15:42:15.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[01Apr2025 15:42:15.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[01Apr2025 15:42:15.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01Apr2025 15:42:15.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[01Apr2025 15:42:15.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unwrecked_ships_plus] Starting version check at https://api.modrinth.com/updates/ae8EZLiC/forge_updates.json
+[01Apr2025 15:42:15.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [unwrecked_ships_plus] Found status: OUTDATED Current: 1.0.4 Target: 1.19-1.0.5
+[01Apr2025 15:42:15.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Apr2025 15:42:15.966] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Apr2025 15:42:16.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[01Apr2025 15:42:16.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_hero_proof] Starting version check at https://api.modrinth.com/updates/GDmztpJg/forge_updates.json
+[01Apr2025 15:42:16.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_hero_proof] Found status: OUTDATED Current: 5.2.1 Target: 5.2.1+mod
+[01Apr2025 15:42:16.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Starting version check at http://changelogs.moddinglegacy.com/scuba-gear.json
+[01Apr2025 15:42:16.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Found status: BETA Current: 1.0.5 Target: null
+[01Apr2025 15:42:16.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[01Apr2025 15:42:16.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[01Apr2025 15:42:16.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [right_click_get_crops] Starting version check at https://raw.github.com/cofh/version/master/right_click_get_crops/update.json
+[01Apr2025 15:42:16.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [right_click_get_crops] Found status: AHEAD Current: 1.4.0.11 Target: null
+[01Apr2025 15:42:16.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[01Apr2025 15:42:16.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
+[01Apr2025 15:42:16.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Starting version check at https://github.com/mactso/Regrowth/raw/main/update.json
+[01Apr2025 15:42:16.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [regrowth] Found status: BETA Current: 41.1.31.1 Target: 41.1.31.1
+[01Apr2025 15:42:16.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01Apr2025 15:42:16.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[01Apr2025 15:42:16.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[01Apr2025 15:42:16.426] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23310!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[01Apr2025 15:42:16.440] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23309!/assets/.mcassetsroot' uses unexpected schema
+[01Apr2025 15:42:16.440] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/lamicheladaputa/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23309!/data/.mcassetsroot' uses unexpected schema
+[01Apr2025 15:42:16.665] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 87 ms
+[01Apr2025 15:42:19.545] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[01Apr2025 15:42:19.579] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise
+[01Apr2025 15:42:19.579] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/template_pool
+[01Apr2025 15:42:19.581] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_set
+[01Apr2025 15:42:19.592] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise_settings
+[01Apr2025 15:42:19.594] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/chat_type
+[01Apr2025 15:42:19.602] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_carver
+[01Apr2025 15:42:19.610] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension_type
+[01Apr2025 15:42:19.617] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure
+[01Apr2025 15:42:19.618] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/processor_list
+[01Apr2025 15:42:19.628] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placed_feature
+[01Apr2025 15:42:19.631] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function
+[01Apr2025 15:42:19.637] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/world_preset
+[01Apr2025 15:42:19.643] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_feature
+[01Apr2025 15:42:19.646] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/flat_level_generator_preset
+[01Apr2025 15:42:19.665] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/game_events
+[01Apr2025 15:42:19.670] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:cherry_grove (from mvs-4.1.4-1.19.2-forge.jar)] as it is missing following references: minecraft:cherry_grove (from mvs-4.1.4-1.19.2-forge.jar)
+[01Apr2025 15:42:19.762] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/custom_stat
+[01Apr2025 15:42:19.781] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_test
+[01Apr2025 15:42:19.790] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/pos_rule_test
+[01Apr2025 15:42:19.818] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/position_source_type
+[01Apr2025 15:42:19.826] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/villager_type
+[01Apr2025 15:42:19.843] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_pool_entry_type
+[01Apr2025 15:42:19.847] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_function_type
+[01Apr2025 15:42:19.850] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_condition_type
+[01Apr2025 15:42:19.853] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_number_provider_type
+[01Apr2025 15:42:19.854] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_nbt_provider_type
+[01Apr2025 15:42:19.858] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_score_provider_type
+[01Apr2025 15:42:19.861] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/float_provider_type
+[01Apr2025 15:42:19.861] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/int_provider_type
+[01Apr2025 15:42:19.866] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/height_provider_type
+[01Apr2025 15:42:19.920] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/block_predicate_type
+[01Apr2025 15:42:19.932] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_piece
+[01Apr2025 15:42:19.933] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_placement
+[01Apr2025 15:42:19.943] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_type
+[01Apr2025 15:42:19.945] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placement_modifier_type
+[01Apr2025 15:42:19.953] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/root_placer_type
+[01Apr2025 15:42:19.954] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/trunk_placer_type
+[01Apr2025 15:42:19.961] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/feature_size_type
+[01Apr2025 15:42:19.964] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/biome_source
+[01Apr2025 15:42:19.970] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/chunk_generator
+[01Apr2025 15:42:19.971] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_condition
+[01Apr2025 15:42:19.972] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_rule
+[01Apr2025 15:42:19.977] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function_type
+[01Apr2025 15:42:19.979] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_processor
+[01Apr2025 15:42:19.981] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_pool_element
+[01Apr2025 15:42:19.986] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/cat_variant
+[01Apr2025 15:42:19.986] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/frog_variant
+[01Apr2025 15:42:19.993] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/banner_pattern
+[01Apr2025 15:42:19.994] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/instrument
+[01Apr2025 15:42:20.588] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_furnace_boat as it's serializer returned null
+[01Apr2025 15:42:20.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards as it's serializer returned null
+[01Apr2025 15:42:20.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[01Apr2025 15:42:20.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:vertical_river_planks as it's serializer returned null
+[01Apr2025 15:42:20.642] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[01Apr2025 15:42:20.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_trapped_chest as it's serializer returned null
+[01Apr2025 15:42:20.645] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_furnace_boat as it's serializer returned null
+[01Apr2025 15:42:20.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder as it's serializer returned null
+[01Apr2025 15:42:20.660] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:vertical_driftwood_planks as it's serializer returned null
+[01Apr2025 15:42:20.671] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards as it's serializer returned null
+[01Apr2025 15:42:20.680] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_beehive as it's serializer returned null
+[01Apr2025 15:42:20.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_chest_wood as it's serializer returned null
+[01Apr2025 15:42:20.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaves_from_river_leaf_pile as it's serializer returned null
+[01Apr2025 15:42:20.705] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_beehive as it's serializer returned null
+[01Apr2025 15:42:20.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_chest as it's serializer returned null
+[01Apr2025 15:42:20.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_river_boat as it's serializer returned null
+[01Apr2025 15:42:20.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_chest_wood as it's serializer returned null
+[01Apr2025 15:42:20.723] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaf_pile as it's serializer returned null
+[01Apr2025 15:42:20.733] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing_trim'
+[01Apr2025 15:42:20.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_trapped_chest as it's serializer returned null
+[01Apr2025 15:42:20.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_bookshelf as it's serializer returned null
+[01Apr2025 15:42:20.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[01Apr2025 15:42:20.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_chest as it's serializer returned null
+[01Apr2025 15:42:20.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder as it's serializer returned null
+[01Apr2025 15:42:20.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:vertical_river_planks_revert as it's serializer returned null
+[01Apr2025 15:42:20.761] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:vertical_driftwood_planks_revert as it's serializer returned null
+[01Apr2025 15:42:20.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_driftwood_boat as it's serializer returned null
+[01Apr2025 15:42:20.776] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_bookshelf as it's serializer returned null
+[01Apr2025 15:42:20.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 21 recipes
+[01Apr2025 15:42:20.864] [main/INFO] [HammerLib/]: Reloading HammerLib recipes...
+[01Apr2025 15:42:20.864] [main/INFO] [HammerLib/]: HammerLib injected 1 recipes into recipe map. Removed 0 recipes from the game.
+[01Apr2025 15:42:20.864] [main/INFO] [HammerLib/]: Reloading 0 custom registries.
+[01Apr2025 15:42:20.865] [main/INFO] [HammerLib/]: 0 custom registries reloaded, added 0 total recipes.
+[01Apr2025 15:42:20.865] [main/INFO] [HammerLib/]: Registered 1 additional recipes.
+[01Apr2025 15:42:20.880] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 6 modifier groups
+[01Apr2025 15:42:21.403] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 8 modifier groups
+[01Apr2025 15:42:21.404] [main/WARN] [HammerLib/]: Unable to find registry for tag directory tags/functions
+[01Apr2025 15:42:21.529] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/master_baiter: Task Advancement{parentId=untamedwilds:untamedwilds/basic_baiter, display=net.minecraft.advancements.DisplayInfo@19d9341c, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={lure_100=net.minecraft.advancements.Criterion@520bf856}, requirements=[[lure_100]]}
+[01Apr2025 15:42:21.530] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/taming_bear: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@30e8bd5c, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={taming_bear=net.minecraft.advancements.Criterion@3d2c3a5f}, requirements=[[taming_bear]]}
+[01Apr2025 15:42:21.530] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/basic_baiter: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@21a0addf, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={using_chum=net.minecraft.advancements.Criterion@7d029576}, requirements=[[using_chum]]}
+[01Apr2025 15:42:21.530] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/lepidopterologist: Task Advancement{parentId=untamedwilds:untamedwilds/activated_feeder, display=net.minecraft.advancements.DisplayInfo@e3ba393, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={butterfly_speckled_wood=net.minecraft.advancements.Criterion@6c85e3e7, butterfly_glasswing=net.minecraft.advancements.Criterion@132f1b0d, butterfly_tiger_swallowtail=net.minecraft.advancements.Criterion@16ac282e, butterfly_orange_tip=net.minecraft.advancements.Criterion@45582653, butterfly_kite=net.minecraft.advancements.Criterion@6816fc4, butterfly_comma=net.minecraft.advancements.Criterion@6d9deb6a, butterfly_mourning_cloak=net.minecraft.advancements.Criterion@1a8743af, butterfly_birdwing=net.minecraft.advancements.Criterion@1e699412, butterfly_triangle=net.minecraft.advancements.Criterion@139b3754, butterfly_malachite=net.minecraft.advancements.Criterion@115f58f6, butterfly_monarch=net.minecraft.advancements.Criterion@31e5eb49, butterfly_morpho=net.minecraft.advancements.Criterion@63fe3063, butterfly_narcissus=net.minecraft.advancements.Criterion@29958adf, butterfly_emperor=net.minecraft.advancements.Criterion@4266fff3, butterfly_peacock=net.minecraft.advancements.Criterion@5c47eb55, butterfly_blue_swallowtail=net.minecraft.advancements.Criterion@4ea8a596, butterfly_leaf=net.minecraft.advancements.Criterion@4bee1dee, butterfly_red_admiral=net.minecraft.advancements.Criterion@3e02fa07, butterfly_brimstone=net.minecraft.advancements.Criterion@5dfcb3d1, butterfly_cabbage=net.minecraft.advancements.Criterion@567329ed}, requirements=[[butterfly_birdwing], [butterfly_blue_swallowtail], [butterfly_brimstone], [butterfly_cabbage], [butterfly_comma], [butterfly_emperor], [butterfly_glasswing], [butterfly_kite], [butterfly_leaf], [butterfly_malachite], [butterfly_monarch], [butterfly_morpho], [butterfly_mourning_cloak], [butterfly_narcissus], [butterfly_orange_tip], [butterfly_peacock], [butterfly_red_admiral], [butterfly_speckled_wood], [butterfly_tiger_swallowtail], [butterfly_triangle]]}
+[01Apr2025 15:42:21.530] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/activated_feeder: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@7c6813a0, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={activated_feeder=net.minecraft.advancements.Criterion@339b7181}, requirements=[[activated_feeder]]}
+[01Apr2025 15:42:21.531] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/discovered_spitter: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@7eb3761e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={discover_spitter=net.minecraft.advancements.Criterion@164c0730}, requirements=[[discover_spitter]]}
+[01Apr2025 15:42:21.531] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/hog_wild: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@35b92b37, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={riding_hog=net.minecraft.advancements.Criterion@43badf37}, requirements=[[riding_hog]]}
+[01Apr2025 15:42:21.531] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/clam_digger: Task Advancement{parentId=untamedwilds:untamedwilds/root, display=net.minecraft.advancements.DisplayInfo@70abfef7, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={spawn_giant_clam=net.minecraft.advancements.Criterion@657dd4b2}, requirements=[[spawn_giant_clam]]}
+[01Apr2025 15:42:21.531] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement untamedwilds:zoology/yee_haw: Task Advancement{parentId=untamedwilds:untamedwilds/hog_wild, display=net.minecraft.advancements.DisplayInfo@589fcdb6, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@35db3ec}, criteria={riding_bison=net.minecraft.advancements.Criterion@534c4a53}, requirements=[[riding_bison]]}
+[01Apr2025 15:42:21.564] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3888 advancements
+[01Apr2025 15:42:21.568] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[01Apr2025 15:42:21.569] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[01Apr2025 15:42:21.569] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[01Apr2025 15:42:21.570] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[01Apr2025 15:42:21.597] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[01Apr2025 15:42:21.600] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[01Apr2025 15:42:21.600] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[01Apr2025 15:42:21.600] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[01Apr2025 15:42:21.609] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_dark_oak use this folder name:lootintegrations
+[01Apr2025 15:42:21.611] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_moog_nether with loottable: lootintegrations:chests/nether
+[01Apr2025 15:42:21.611] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_crimson use this folder name:lootintegrations
+[01Apr2025 15:42:21.612] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_willow use this folder name:lootintegrations
+[01Apr2025 15:42:21.612] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_structory_easy with loottable: lootintegrations:chests/easy
+[01Apr2025 15:42:21.612] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_oak use this folder name:lootintegrations
+[01Apr2025 15:42:21.612] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/wildlands/hanging_sign_cypress use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/wildlands/hanging_sign_coconut use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_spruce use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_crystallized use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_dusk use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_redwood use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_hellbark use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_cherry use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_umbran use this folder name:lootintegrations
+[01Apr2025 15:42:21.613] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_ctov_easy with loottable: lootintegrations:chests/easy
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_moog_medium with loottable: lootintegrations:chests/medium
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_structory_nether with loottable: lootintegrations:chests/nether
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/iceandfire/hanging_sign_dreadwood use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_moog_easy with loottable: lootintegrations:chests/easy
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:yung_dungeonloot_water with loottable: lootintegrations:chests/water
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_acacia use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/upgrade_aquatic/hanging_sign_river use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:yung_dungeonloot_easy with loottable: lootintegrations:chests/easy
+[01Apr2025 15:42:21.614] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_valhelsia_medium with loottable: lootintegrations:chests/medium
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_bluebright use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_maple use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_dead use this folder name:lootintegrations
+[01Apr2025 15:42:21.614] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_jacaranda use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_starlit use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_moog_village with loottable: lootintegrations:chests/village
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_cherry use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/ad_astra/hanging_sign_glacian use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/ad_astra/hanging_sign_aeronos use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_ctov_village with loottable: lootintegrations:chests/village
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_magic use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_valhelsia_easy with loottable: lootintegrations:chests/easy
+[01Apr2025 15:42:21.615] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:dungeonloot_no_overflow with loottable: minecraft:chests/simple_dungeon
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_lunar use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_fir use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_birch use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/blue_skies/hanging_sign_frostbright use this folder name:lootintegrations
+[01Apr2025 15:42:21.615] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_structory_hard with loottable: lootintegrations:chests/hard
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:yung_dungeonloot_nether with loottable: lootintegrations:chests/nether
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:yung_villageloot_house with loottable: lootintegrations:chests/village
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_jungle use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_warped use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/ad_astra/hanging_sign_strophar use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_palm use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/upgrade_aquatic/hanging_sign_driftwood use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/biomesoplenty/hanging_sign_mahogany use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/wildlands/hanging_sign_charred use this folder name:lootintegrations
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_valhelsia_village with loottable: lootintegrations:chests/village
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:yung_dungeonloot_medium with loottable: lootintegrations:chests/medium
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_structory_water with loottable: lootintegrations:chests/water
+[01Apr2025 15:42:21.616] [main/INFO] [com.lootintegrations.LootintegrationsMod/]: Parsing loot modifiers for:lootintegrations:loot_structory_village with loottable: lootintegrations:chests/village
+[01Apr2025 15:42:21.616] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/hanging_sign_mangrove use this folder name:lootintegrations
+[01Apr2025 15:42:21.617] [main/WARN] [com.lootintegrations.LootintegrationsMod/]: Ignoring loot modifiers for:supplementaries:tables/blocks/valhelsia_structures/hanging_sign_lapidified_jungle use this folder name:lootintegrations
+[01Apr2025 15:42:21.628] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[01Apr2025 15:42:21.641] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Structure Repaletter Manager has loaded 2 repaletters
+[01Apr2025 15:42:21.647] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Modded Biome Slice Manager has loaded 1 slices
+[01Apr2025 15:42:21.647] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[01Apr2025 15:42:21.651] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id arcane_abilities:skill_xp_rune - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: arcane_abilities:skill_xp_rune
+[01Apr2025 15:42:21.652] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: spawn_tables
+[01Apr2025 15:42:21.653] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for spawn_tables loaded 8 jsons
+[01Apr2025 15:42:21.653] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: entities
+[01Apr2025 15:42:21.665] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for entities loaded 37 jsons
+[01Apr2025 15:42:21.665] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[01Apr2025 15:42:21.728] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: mvs:has_structure/cherry_biomes
+[01Apr2025 15:42:21.885] [main/INFO] [supplementaries/]: Finished additional setup in 87 ms
+[01Apr2025 15:42:21.893] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[01Apr2025 15:42:22.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[01Apr2025 15:42:22.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Apr2025 15:42:22.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Apr2025 15:42:22.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Apr2025 15:42:22.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Apr2025 15:42:22.159] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Apr2025 15:42:22.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Apr2025 15:42:22.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Apr2025 15:42:22.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Apr2025 15:42:22.250] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Apr2025 15:42:22.274] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[01Apr2025 15:42:22.288] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[01Apr2025 15:42:22.290] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Apr2025 15:42:22.668] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:23.299] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Apr2025 15:42:23.300] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Apr2025 15:42:23.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Apr2025 15:42:23.783] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[01Apr2025 15:42:23.965] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:24.218] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:24.806] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Apr2025 15:42:25.709] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:26.795] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:26.975] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Apr2025 15:42:26.975] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Apr2025 15:42:26.976] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Apr2025 15:42:26.976] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Apr2025 15:42:27.130] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[01Apr2025 15:42:27.297] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityOctopus from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:42:27.308] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:27.357] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:42:27.358] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[01Apr2025 15:42:27.367] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:42:27.368] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[01Apr2025 15:42:27.466] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:27.633] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2515 ms
+[01Apr2025 15:42:27.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.372s)! For help, type "help"
+[01Apr2025 15:42:27.649] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Apr2025 15:42:27.685] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Apr2025 15:42:27.687] [Server thread/INFO] [HammerLib/]: Reloading recipes in 0 HL recipe registries.
+[01Apr2025 15:42:27.687] [Server thread/INFO] [net.stardustlabs.structorytowers.StructoryTowers/]: Thanks for choosing StructoryTowers!
+[01Apr2025 15:42:27.687] [Server thread/INFO] [net.stardustlabs.structory.Structory/]: Thanks for choosing Structory!
+[01Apr2025 15:42:27.726] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[01Apr2025 15:42:27.727] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[01Apr2025 15:42:27.727] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[01Apr2025 15:42:27.728] [Server thread/WARN] [ModernFix/]: Dedicated server took 43.542 seconds to load
+[01Apr2025 15:42:34.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@386422f9[id=<null>,name=KingTuPapi,properties={},legacy=false] (/127.195.21.180:38487) lost connection: Disconnected
+[01Apr2025 15:42:54.282] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43f5bba0[id=<null>,name=KingTuPapi,properties={},legacy=false] (/127.195.21.180:50567) lost connection: Disconnected
+[01Apr2025 15:44:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made kingtupapi a server operator
+[01Apr2025 15:45:12.978] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27162e42
+[01Apr2025 15:45:13.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.58.209.43:38959] logged in with entity id 216 at (-27.138812170948082, 65.0, -18.32153807696274)
+[01Apr2025 15:45:13.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[01Apr2025 15:45:13.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[01Apr2025 15:45:13.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[01Apr2025 15:45:13.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[01Apr2025 15:45:13.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[01Apr2025 15:45:13.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[01Apr2025 15:45:13.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[01Apr2025 15:45:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[01Apr2025 15:45:13.463] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 15:45:13.471] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[01Apr2025 15:45:18.433] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTarantula from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:45:18.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/235, l='ServerLevel[world]', x=-55.50, y=46.00, z=-99.50]
+[01Apr2025 15:45:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Set own game mode to Survival Mode]
+[01Apr2025 15:45:38.232] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:45:38.233] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[01Apr2025 15:45:42.192] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@425acadf
+[01Apr2025 15:45:42.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KingTuPapi[/127.195.21.180:37435] logged in with entity id 267 at (-53.5, 64.0, -37.5)
+[01Apr2025 15:45:42.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KingTuPapi
+[01Apr2025 15:45:42.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KingTuPapi
+[01Apr2025 15:45:42.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KingTuPapi
+[01Apr2025 15:45:42.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KingTuPapi
+[01Apr2025 15:45:42.206] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KingTuPapi
+[01Apr2025 15:45:42.208] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KingTuPapi
+[01Apr2025 15:45:42.208] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KingTuPapi
+[01Apr2025 15:45:42.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi joined the game
+[01Apr2025 15:45:42.475] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Apr2025 15:45:42.477] [Server thread/INFO] [Jade/]: Syncing config to KingTuPapi (ed18a93d-f959-3734-8c55-2c1d3b17e108)
+[01Apr2025 15:45:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ice and Fire]
+[01Apr2025 15:45:43.707] [Worker-Main-1/WARN] [ModernFix/]: The namespace aquamirae contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:46.896] [Worker-Main-17/WARN] [ModernFix/]: The namespace realmrpg_skeletons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:47.048] [Worker-Main-17/WARN] [ModernFix/]: The namespace seadwellers contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:47.559] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterwitchhuts contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:47.613] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:49.115] [Worker-Main-17/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:49.323] [Worker-Main-17/WARN] [ModernFix/]: The namespace betterfortresses contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:45:49.789] [Server thread/WARN] [ModernFix/]: The namespace minecraft contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:46:00.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Apr2025 15:46:28.206] [Worker-Main-1/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:46:29.252] [Worker-Main-10/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:46:29.636] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/524, l='ServerLevel[world]', x=105.50, y=48.00, z=-71.50]
+[01Apr2025 15:46:29.906] [Worker-Main-17/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:46:38.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/650, l='ServerLevel[world]', x=107.50, y=48.00, z=-71.50]
+[01Apr2025 15:47:14.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/712, l='ServerLevel[world]', x=-55.50, y=46.00, z=-98.50]
+[01Apr2025 15:47:52.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Apr2025 15:48:12.781] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:48:33.535] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:48:54.481] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBarracuda from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[01Apr2025 15:49:44.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Apr2025 15:50:23.113] [Worker-Main-1/WARN] [ModernFix/]: The namespace ad_astra contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:50:24.519] [Worker-Main-10/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:50:37.544] [Worker-Main-1/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[01Apr2025 15:50:40.329] [Worker-Main-17/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Apr2025 15:50:42.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
