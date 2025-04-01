@@ -3529,6 +3529,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-04-01 18:39:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:56:16 +0000"
