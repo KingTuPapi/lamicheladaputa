@@ -10473,3 +10473,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 22:46:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Amateur Archaeologist]
 [02Apr2025 22:47:59.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Apr2025 22:47:59.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 22:51:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Ice Bucket Challenge]
+[02Apr2025 22:52:59.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 22:52:59.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 22:53:30.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/213249, l='ServerLevel[world]', x=-139.50, y=54.00, z=-1920.50]
+[02Apr2025 22:53:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Enchanter]
+[02Apr2025 22:57:59.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 22:57:59.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
