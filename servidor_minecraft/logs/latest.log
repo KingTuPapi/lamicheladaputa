@@ -971,3 +971,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 21:06:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Knowledge of Death]
 [02Apr2025 21:06:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ambush]
 [02Apr2025 21:09:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [A Strange Grave Dust]
+[02Apr2025 21:15:58.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has reached the goal [Strong or Careful]
+[02Apr2025 21:15:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi fell from a high place
+[02Apr2025 21:15:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Your First Grave]
+[02Apr2025 21:15:58.214] [Server thread/INFO] [tombstone/]: The player KingTuPapi has successfully been saved
