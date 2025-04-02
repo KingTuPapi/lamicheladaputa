@@ -1093,3 +1093,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 22:38:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yofrems: Teleported yofrems to Dinosaur_Meap]
 [02Apr2025 22:39:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Sneak 100]
 [02Apr2025 22:40:25.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to yofrems]
+[02Apr2025 22:43:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has reached the goal [Bone Crusher]
+[02Apr2025 22:46:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Chest Slayer]
+[02Apr2025 22:46:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Amateur Archaeologist]

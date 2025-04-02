@@ -1533,6 +1533,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 22:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-02 02:01:34 +0000"
@@ -2968,6 +2974,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-02 22:39:21 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-04-02 04:04:28 +0000"
@@ -3066,6 +3078,7 @@
       "clover_patch": "2025-04-02 20:20:59 +0000",
       "mystic_grove": "2025-04-02 04:05:34 +0000",
       "old_growth_woodland": "2025-04-02 01:54:59 +0000",
+      "maple_woods": "2025-04-02 22:38:05 +0000",
       "field": "2025-04-02 19:40:12 +0000",
       "mediterranean_forest": "2025-04-02 01:17:12 +0000",
       "coniferous_forest": "2025-04-02 20:00:38 +0000",
