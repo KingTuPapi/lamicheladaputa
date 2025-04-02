@@ -975,3 +975,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 21:15:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi fell from a high place
 [02Apr2025 21:15:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Your First Grave]
 [02Apr2025 21:15:58.214] [Server thread/INFO] [tombstone/]: The player KingTuPapi has successfully been saved
+[02Apr2025 21:21:03.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [No Step on Snake]
+[02Apr2025 21:24:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi fell from a high place
+[02Apr2025 21:24:03.194] [Server thread/INFO] [tombstone/]: The player KingTuPapi has successfully been saved
+[02Apr2025 21:24:59.036] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
