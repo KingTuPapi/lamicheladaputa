@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/saferhedges": {
     "criteria": {
       "has_traded": "2025-04-01 17:43:00 +0000"
@@ -14,6 +20,12 @@
   "blue_skies:recipes/blue_skies_blocks/lunar_lever": {
     "criteria": {
       "has_item": "2025-04-02 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_sword": {
+    "criteria": {
+      "has_resource": "2025-04-02 15:16:15 +0000"
     },
     "done": true
   },
@@ -53,6 +65,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_axe": {
     "criteria": {
       "has_resource": "2025-04-01 18:08:30 +0000"
@@ -80,6 +98,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-04-02 15:17:05 +0000"
     },
     "done": true
   },
@@ -197,9 +221,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_slab": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_slab": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
     },
     "done": true
   },
@@ -438,6 +474,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_dusk_log": "2025-04-02 15:15:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -564,6 +606,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/dusk_hoe": {
+    "criteria": {
+      "has_resource": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-01 16:09:20 +0000"
@@ -654,6 +702,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_button": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_dark_oak_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
@@ -696,6 +750,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_crafting_table": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
     "criteria": {
       "has_coals": "2025-04-01 16:27:11 +0000"
@@ -717,6 +777,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-04-01 17:44:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_stairs": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
     },
     "done": true
   },
@@ -1053,6 +1119,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/dusk_axe": {
+    "criteria": {
+      "has_resource": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-01 16:28:15 +0000"
@@ -1177,6 +1249,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-04-02 15:16:15 +0000"
     },
     "done": true
   },
@@ -1306,6 +1384,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/decorations/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:42 +0000"
@@ -1333,6 +1417,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-01 15:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:34:57 +0000"
     },
     "done": true
   },
@@ -1618,6 +1708,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_sign": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
@@ -1702,6 +1798,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_smoking_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-04-02 15:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-02 03:53:37 +0000"
@@ -1711,6 +1813,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_oak_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_stairs_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
     },
     "done": true
   },
@@ -2308,6 +2416,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_wall": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-01 15:59:52 +0000"
@@ -2620,6 +2734,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_fence_gate": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
@@ -2777,6 +2897,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
@@ -2804,6 +2930,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_door": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
     },
     "done": true
   },
@@ -3141,6 +3273,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_ladder": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-04-02 03:25:18 +0000"
@@ -3327,6 +3465,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/polished_rimestone_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_button": {
     "criteria": {
       "has_item": "2025-04-02 01:43:03 +0000"
@@ -3483,6 +3627,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/polished_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-01 15:56:39 +0000"
@@ -3595,6 +3745,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-01 16:01:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_wall_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
     },
     "done": true
   },
@@ -4054,6 +4210,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_slab_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/gray_upholstered_jungle_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-01 16:17:40 +0000"
@@ -4066,9 +4228,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_fence": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_smelting_monitor_tail": {
+    "criteria": {
+      "has_item": "2025-04-02 15:17:05 +0000"
     },
     "done": true
   },
@@ -4193,6 +4367,12 @@
   "blue_skies:recipes/blue_skies_blocks/turquoise_lever": {
     "criteria": {
       "has_item": "2025-04-01 17:59:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/rimestone_stairs": {
+    "criteria": {
+      "has_item": "2025-04-02 15:48:55 +0000"
     },
     "done": true
   },
@@ -4408,21 +4588,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-02 04:04:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-02 03:57:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 04:04:13 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_planks": {
+    "criteria": {
+      "has_item": "2025-04-02 15:15:34 +0000"
     },
     "done": true
   },
@@ -4769,6 +4955,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/dusk_shovel": {
+    "criteria": {
+      "has_resource": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-02 03:29:24 +0000"
@@ -4796,6 +4988,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/dusk_stick": {
+    "criteria": {
+      "has_item": "2025-04-02 15:16:15 +0000"
     },
     "done": true
   },
