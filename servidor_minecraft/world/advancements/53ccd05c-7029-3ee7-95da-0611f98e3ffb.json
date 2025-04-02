@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-02 01:15:54 +0000"
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-04-02 01:59:33 +0000"
@@ -122,6 +140,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-04-02 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -323,9 +347,21 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-02 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -359,6 +395,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 20:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-02 01:38:31 +0000"
@@ -383,6 +431,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-04-02 01:16:31 +0000"
@@ -392,6 +446,18 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/blue_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-02 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-02 19:46:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -539,6 +605,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-02 20:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-02 01:35:11 +0000"
@@ -578,6 +650,12 @@
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-04-02 01:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-02 19:46:02 +0000"
     },
     "done": true
   },
@@ -818,6 +896,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-02 20:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-02 04:06:23 +0000"
@@ -875,6 +959,18 @@
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:54:28 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-04-02 19:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-02 19:51:29 +0000"
     },
     "done": true
   },
@@ -981,9 +1077,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-02 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -1059,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-02 19:55:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2025-04-02 01:12:55 +0000"
@@ -1119,6 +1233,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 19:39:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_curtain": {
     "criteria": {
       "has_item": "2025-04-02 03:30:44 +0000"
@@ -1134,6 +1254,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/red_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-02 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 19:42:11 +0000"
     },
     "done": true
   },
@@ -1164,6 +1290,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-02 01:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 20:07:58 +0000"
     },
     "done": true
   },
@@ -1215,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 20:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-02 01:15:54 +0000"
@@ -1226,6 +1364,12 @@
       "has_stone": "2025-04-02 01:57:53 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-04-02 19:42:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1467,6 +1611,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-04-02 01:12:55 +0000"
@@ -1533,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-04-02 01:16:31 +0000"
@@ -1575,6 +1731,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-02 04:06:31 +0000"
@@ -1590,6 +1752,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-02 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -1934,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-02 19:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-02 01:15:54 +0000"
@@ -1943,6 +2117,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-02 04:06:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -2006,6 +2186,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-02 03:28:40 +0000"
@@ -2052,6 +2238,12 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-04-02 03:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -2121,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-02 19:42:11 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-04-02 01:12:55 +0000"
@@ -2139,9 +2337,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-02 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -2220,6 +2430,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
     },
     "done": true
   },
@@ -2379,6 +2595,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-02 01:54:02 +0000"
@@ -2432,6 +2654,12 @@
       "in_better_spider_dungeon": "2025-04-02 04:02:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-02 19:41:17 +0000"
+    },
+    "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
@@ -2598,14 +2826,26 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-04-02 20:14:24 +0000",
       "scrubland": "2025-04-02 01:23:41 +0000",
       "mystic_grove": "2025-04-02 04:05:34 +0000",
       "old_growth_woodland": "2025-04-02 01:54:59 +0000",
+      "field": "2025-04-02 19:40:12 +0000",
       "mediterranean_forest": "2025-04-02 01:17:12 +0000",
+      "coniferous_forest": "2025-04-02 20:00:38 +0000",
       "dryland": "2025-04-02 01:30:07 +0000",
-      "wasteland": "2025-04-02 01:21:07 +0000"
+      "wasteland": "2025-04-02 01:21:07 +0000",
+      "fir_clearing": "2025-04-02 20:03:55 +0000",
+      "grassland": "2025-04-02 20:16:50 +0000",
+      "ominous_woods": "2025-04-02 20:04:18 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
   },
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_spruce_chair": {
     "criteria": {
@@ -2652,6 +2892,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-02 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -2718,6 +2964,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-04-02 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -2973,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-02 19:51:29 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2025-04-02 01:12:55 +0000"
@@ -3141,6 +3399,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-02 01:54:02 +0000"
@@ -3232,9 +3496,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-04-02 01:35:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-02 20:03:18 +0000"
     },
     "done": true
   },
@@ -3268,6 +3544,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-02 01:36:44 +0000"
@@ -3282,13 +3564,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-02 20:12:06 +0000",
       "minecraft:eroded_badlands": "2025-04-02 01:36:37 +0000",
       "minecraft:birch_forest": "2025-04-02 04:03:32 +0000",
       "minecraft:badlands": "2025-04-02 01:35:01 +0000",
       "minecraft:savanna_plateau": "2025-04-02 03:55:03 +0000",
       "minecraft:beach": "2025-04-02 04:05:14 +0000",
       "minecraft:river": "2025-04-02 01:17:50 +0000",
+      "minecraft:cold_ocean": "2025-04-02 20:07:22 +0000",
+      "minecraft:forest": "2025-04-02 20:10:15 +0000",
       "minecraft:desert": "2025-04-02 01:12:57 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-02 20:13:56 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-02 20:05:21 +0000",
       "minecraft:savanna": "2025-04-02 01:15:58 +0000",
       "minecraft:plains": "2025-04-02 01:56:02 +0000"
     },
@@ -3303,6 +3590,12 @@
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-04-02 01:13:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -3426,9 +3719,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 19:44:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-02 20:07:58 +0000"
     },
     "done": true
   },
@@ -3438,9 +3743,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-04-02 03:50:08 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
     },
     "done": true
   },
@@ -3456,9 +3779,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-02 01:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -3528,6 +3863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:53:46 +0000"
@@ -3537,6 +3878,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/cyan_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-02 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
     },
     "done": true
   },
@@ -3672,6 +4019,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-04-02 03:50:08 +0000"
@@ -3696,9 +4049,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:39:37 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-04-02 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -3710,6 +4075,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-02 19:45:09 +0000",
       "bread": "2025-04-02 01:20:02 +0000"
     },
     "done": false
@@ -3738,9 +4104,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-02 19:45:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-02 01:54:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
     },
     "done": true
   },
@@ -3771,6 +4149,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-02 01:36:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/stripped_oak_post": {
+    "criteria": {
+      "has_item": "2025-04-02 19:44:14 +0000"
     },
     "done": true
   },
@@ -4021,6 +4405,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:18:50 +0000"
@@ -4129,6 +4519,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-04-02 01:16:31 +0000"
@@ -4213,6 +4609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-02 19:37:32 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-04-02 01:19:18 +0000"
@@ -4264,6 +4666,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_warped_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-02 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -4342,6 +4750,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_warped_chair": {
     "criteria": {
       "has_brown_wool": "2025-04-02 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-02 19:51:29 +0000"
     },
     "done": true
   },
@@ -4429,6 +4843,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:39:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_spruce_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-02 03:30:44 +0000"
@@ -4438,6 +4858,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-02 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:37:32 +0000"
     },
     "done": true
   },
@@ -4456,6 +4882,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-02 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:09:55 +0000"
     },
     "done": true
   },
@@ -4513,9 +4945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-02 19:46:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 01:53:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2025-04-02 19:39:40 +0000"
     },
     "done": true
   },
@@ -4632,6 +5076,12 @@
       "no_bam": "2025-04-02 01:12:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-02 20:07:58 +0000"
+    },
+    "done": true
   },
   "vs_eureka:recipes/balloon_membrane": {
     "criteria": {

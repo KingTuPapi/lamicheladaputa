@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-02 03:41:58 +0000"
@@ -732,6 +738,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-04-01 18:00:44 +0000"
@@ -801,6 +813,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_crafting_table": {
     "criteria": {
       "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -1342,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -1672,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
@@ -1831,6 +1861,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/red_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -2385,6 +2421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-02 19:24:52 +0000"
@@ -2620,6 +2662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-02 20:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -2743,6 +2791,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
     },
     "done": true
   },
@@ -2914,6 +2968,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-02 04:04:13 +0000"
@@ -3052,6 +3112,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-04-01 01:33:02 +0000",
@@ -3104,6 +3170,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_pressure_plate": {
     "criteria": {
       "has_item": "2025-04-02 15:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 19:46:19 +0000"
     },
     "done": true
   },
@@ -3182,6 +3254,7 @@
       "old_growth_woodland": "2025-04-01 16:16:03 +0000",
       "field": "2025-04-02 18:08:35 +0000",
       "mediterranean_forest": "2025-04-01 15:56:43 +0000",
+      "coniferous_forest": "2025-04-02 19:44:11 +0000",
       "spider_nest": "2025-04-02 03:52:32 +0000",
       "wasteland": "2025-04-01 15:54:15 +0000",
       "grassland": "2025-04-02 04:03:18 +0000",
@@ -3881,6 +3954,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/black_curtain": {
     "criteria": {
       "has_item": "2025-04-01 16:18:01 +0000"
@@ -3941,6 +4020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 04:04:35 +0000"
@@ -3987,6 +4072,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-01 16:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -4056,6 +4147,7 @@
       "minecraft:birch_forest": "2025-04-02 04:03:10 +0000",
       "minecraft:beach": "2025-04-02 04:03:44 +0000",
       "minecraft:river": "2025-04-01 15:50:44 +0000",
+      "minecraft:cold_ocean": "2025-04-02 19:45:27 +0000",
       "minecraft:forest": "2025-04-02 04:02:35 +0000",
       "minecraft:desert": "2025-04-01 00:26:17 +0000",
       "minecraft:ocean": "2025-04-02 18:35:36 +0000",
@@ -4244,6 +4336,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
@@ -4271,6 +4369,12 @@
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
     "criteria": {
       "has_resource": "2025-04-01 17:59:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
     },
     "done": true
   },
@@ -4370,6 +4474,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/hay_jungle_chair": {
     "criteria": {
       "has_hay_block": "2025-04-01 17:44:01 +0000"
@@ -4391,6 +4501,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-02 19:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -4481,6 +4597,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
     "criteria": {
       "has_bone": "2025-04-01 16:14:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 19:56:50 +0000"
     },
     "done": true
   },
@@ -4645,6 +4767,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-02 04:04:35 +0000"
@@ -4672,6 +4800,12 @@
   "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
     "criteria": {
       "has_resource": "2025-04-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -4828,6 +4962,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-01 15:57:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 19:46:19 +0000"
     },
     "done": true
   },
@@ -5140,6 +5280,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 19:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-01 16:11:21 +0000"
@@ -5281,6 +5433,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/red_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -5446,6 +5604,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 20:06:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-04-02 03:25:18 +0000"
@@ -5455,6 +5619,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_spruce_stool": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -5480,6 +5650,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_crimson_chair": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-04-02 19:37:02 +0000"
     },
     "done": true
   },
@@ -5558,6 +5734,12 @@
   "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
     "criteria": {
       "has_resource": "2025-04-02 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2025-04-02 20:06:24 +0000"
     },
     "done": true
   },
