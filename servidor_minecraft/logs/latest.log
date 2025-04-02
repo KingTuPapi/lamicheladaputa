@@ -955,3 +955,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 20:52:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
 [02Apr2025 20:54:37.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yofrems lost connection: Disconnected
 [02Apr2025 20:54:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems left the game
+[02Apr2025 21:03:23.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57916365
+[02Apr2025 21:03:23.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KingTuPapi[/127.195.21.180:42391] logged in with entity id 139567 at (-136.86125780993817, 121.0, 518.622358014821)
+[02Apr2025 21:03:23.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KingTuPapi
+[02Apr2025 21:03:23.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KingTuPapi
+[02Apr2025 21:03:23.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KingTuPapi
+[02Apr2025 21:03:23.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KingTuPapi
+[02Apr2025 21:03:23.133] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KingTuPapi
+[02Apr2025 21:03:23.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KingTuPapi
+[02Apr2025 21:03:23.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KingTuPapi
+[02Apr2025 21:03:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi joined the game
+[02Apr2025 21:03:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has reached the goal [Easter]
+[02Apr2025 21:03:23.160] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 21:03:23.162] [Server thread/INFO] [Jade/]: Syncing config to KingTuPapi (ed18a93d-f959-3734-8c55-2c1d3b17e108)
+[02Apr2025 21:06:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Knowledge of Death]
+[02Apr2025 21:06:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ambush]
+[02Apr2025 21:09:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [A Strange Grave Dust]

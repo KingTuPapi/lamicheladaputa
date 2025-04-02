@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 21:03:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:53:42 +0000"
@@ -1200,6 +1206,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/red_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 21:06:38 +0000"
     },
     "done": true
   },
@@ -4202,6 +4214,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 21:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-01 18:06:18 +0000"
@@ -4409,6 +4427,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-01 16:00:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-02 21:03:24 +0000"
     },
     "done": true
   },
