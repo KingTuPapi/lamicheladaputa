@@ -8001,3 +8001,91 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 04:01:34.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_2
 [02Apr2025 04:01:34.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_11
 [02Apr2025 04:01:34.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_3
+[02Apr2025 04:01:47.807] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02Apr2025 04:02:04.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:02:04.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 04:02:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Cobweb Entanglement]
+[02Apr2025 04:02:38.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
+[02Apr2025 04:02:48.419] [Worker-Main-3/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02Apr2025 04:02:48.420] [Worker-Main-3/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[02Apr2025 04:02:50.914] [Worker-Main-3/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02Apr2025 04:02:50.915] [Worker-Main-3/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[02Apr2025 04:02:51.119] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[02Apr2025 04:03:16.957] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Apr2025 04:03:18.236] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -70], pos: MutableBlockPos{x=-935, y=73, z=-1114}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:25.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[02Apr2025 04:03:31.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yofrems: Teleported yofrems to Dinosaur_Meap]
+[02Apr2025 04:03:40.187] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-59, -73], pos: MutableBlockPos{x=-930, y=67, z=-1157}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:40.190] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-60, -74], pos: MutableBlockPos{x=-947, y=70, z=-1170}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:40.190] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-60, -74], pos: MutableBlockPos{x=-945, y=70, z=-1171}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:40.190] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-60, -74], pos: MutableBlockPos{x=-949, y=70, z=-1169}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:40.190] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-60, -74], pos: MutableBlockPos{x=-954, y=70, z=-1170}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:40.191] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-60, -74], pos: MutableBlockPos{x=-956, y=71, z=-1173}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:41.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_lg
+[02Apr2025 04:03:42.734] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-58, -75], pos: MutableBlockPos{x=-914, y=68, z=-1185}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@46cc8d75: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@84676ac}
+[02Apr2025 04:03:42.739] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[02Apr2025 04:03:42.740] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[02Apr2025 04:03:42.740] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[02Apr2025 04:03:42.740] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[02Apr2025 04:04:11.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was doomed to fall by Cyclops
+[02Apr2025 04:04:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Isn't It Iron Pick]
+[02Apr2025 04:04:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap was doomed to fall by Cyclops
+[02Apr2025 04:04:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was slain by Cyclops
+[02Apr2025 04:04:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap was slain by Cyclops
+[02Apr2025 04:04:46.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was slain by Cyclops
+[02Apr2025 04:04:54.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was slain by Cyclops
+[02Apr2025 04:05:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was slain by Cyclops
+[02Apr2025 04:05:18.810] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[02Apr2025 04:05:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap was slain by Cyclops
+[02Apr2025 04:05:54.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
+[02Apr2025 04:05:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[02Apr2025 04:07:04.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:07:04.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 04:08:10.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yofrems lost connection: Disconnected
+[02Apr2025 04:08:10.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems left the game
+[02Apr2025 04:08:10.279] [Server thread/INFO] [HammerLib/]: Purging cache from 0 HL recipe registries.
+[02Apr2025 04:08:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Apr2025 04:08:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Apr2025 04:08:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Apr2025 04:08:10.283] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[02Apr2025 04:08:10.285] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[02Apr2025 04:08:10.391] [DefaultDispatcher-worker-1/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[02Apr2025 04:08:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Apr2025 04:08:11.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[02Apr2025 04:08:11.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[02Apr2025 04:08:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[02Apr2025 04:08:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[02Apr2025 04:08:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/barrows_brothers_mod:morytania_dimension
+[02Apr2025 04:08:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[02Apr2025 04:08:11.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[02Apr2025 04:08:11.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Apr2025 04:08:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[02Apr2025 04:08:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[02Apr2025 04:08:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[02Apr2025 04:08:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Apr2025 04:08:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[02Apr2025 04:08:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[02Apr2025 04:08:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[02Apr2025 04:08:11.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[02Apr2025 04:08:12.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Apr2025 04:08:12.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Apr2025 04:08:12.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (morytania_dimension): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[02Apr2025 04:08:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Apr2025 04:08:12.135] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[02Apr2025 04:08:12.135] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
