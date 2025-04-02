@@ -2018,15 +2018,15 @@
     },
     "done": true
   },
-  "blue_skies:root": {
-    "criteria": {
-      "enter_everbright": "2025-04-01 17:48:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-01 16:49:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-04-01 17:48:30 +0000"
     },
     "done": true
   },
@@ -2830,15 +2830,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2025-04-01 17:36:57 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-01 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-04-01 17:36:57 +0000"
     },
     "done": true
   },
@@ -2864,6 +2864,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-01 16:36:07 +0000",
       "minecraft:spider": "2025-04-01 16:55:30 +0000",
+      "minecraft:phantom": "2025-04-02 03:27:11 +0000",
       "minecraft:cave_spider": "2025-04-01 16:06:35 +0000",
       "minecraft:enderman": "2025-04-01 17:50:16 +0000",
       "minecraft:zombie": "2025-04-01 16:47:00 +0000"
@@ -3008,15 +3009,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-04-01 17:50:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/hay_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-01 17:50:16 +0000"
     },
     "done": true
   },
@@ -3581,15 +3582,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-01 17:27:04 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-01 17:27:04 +0000"
     },
     "done": true
   },
@@ -4117,15 +4118,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-01 17:29:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-01 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-01 17:29:35 +0000"
     },
     "done": true
   },
@@ -4519,15 +4520,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/valhelsia_furniture/cyan_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2025-04-01 17:36:57 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/cyan_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-04-01 17:36:57 +0000"
     },
     "done": true
   },
@@ -4747,15 +4748,15 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
-    "criteria": {
-      "has_orange_terracotta": "2025-04-01 17:27:18 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_logs": "2025-04-01 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-01 17:27:18 +0000"
     },
     "done": true
   },
