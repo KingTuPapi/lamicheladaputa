@@ -979,3 +979,117 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 21:24:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi fell from a high place
 [02Apr2025 21:24:03.194] [Server thread/INFO] [tombstone/]: The player KingTuPapi has successfully been saved
 [02Apr2025 21:24:59.036] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Apr2025 21:30:59.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Easter Egg Searcher]
+[02Apr2025 21:31:18.825] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Apr2025 21:31:22.461] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Apr2025 21:33:42.544] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4713d25c
+[02Apr2025 21:33:42.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:47031] logged in with entity id 151499 at (-1018.4589561485291, 69.0, -1277.1575229839987)
+[02Apr2025 21:33:42.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[02Apr2025 21:33:42.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[02Apr2025 21:33:42.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[02Apr2025 21:33:42.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[02Apr2025 21:33:42.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[02Apr2025 21:33:42.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[02Apr2025 21:33:42.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[02Apr2025 21:33:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[02Apr2025 21:33:42.591] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 21:33:42.592] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[02Apr2025 21:36:54.255] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Apr2025 21:38:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Ambush]
+[02Apr2025 21:40:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Mine? Mine? Mine?]
+[02Apr2025 21:41:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to Dinosaur_Meap]
+[02Apr2025 21:43:55.460] [Worker-Main-118/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 21:44:11.207] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Apr2025 21:45:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Ice Maze]
+[02Apr2025 21:45:05.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[02Apr2025 21:45:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to Dinosaur_Meap]
+[02Apr2025 21:45:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ice Maze]
+[02Apr2025 21:46:09.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[02Apr2025 21:47:10.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Almost Like a Fan]
+[02Apr2025 21:47:36.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[02Apr2025 21:49:04.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[02Apr2025 21:51:01.146] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20da2589
+[02Apr2025 21:51:01.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yofrems[/127.71.173.91:40973] logged in with entity id 161660 at (-1017.5, 69.0, -1275.5)
+[02Apr2025 21:51:01.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to yofrems
+[02Apr2025 21:51:01.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to yofrems
+[02Apr2025 21:51:01.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to yofrems
+[02Apr2025 21:51:01.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to yofrems
+[02Apr2025 21:51:01.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to yofrems
+[02Apr2025 21:51:01.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to yofrems
+[02Apr2025 21:51:01.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to yofrems
+[02Apr2025 21:51:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems joined the game
+[02Apr2025 21:51:01.189] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 21:51:01.191] [Server thread/INFO] [Jade/]: Syncing config to yofrems (53ccd05c-7029-3ee7-95da-0611f98e3ffb)
+[02Apr2025 21:51:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has completed the challenge [Free Willy]
+[02Apr2025 21:53:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KingTuPapi> zzzzzzzzzzzzzzzzzz
+[02Apr2025 21:53:05.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> ZZZZZ
+[02Apr2025 21:53:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> bueno yofre
+[02Apr2025 21:53:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> sleep
+[02Apr2025 21:53:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yofrems> bueno callate
+[02Apr2025 21:53:46.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yofrems lost connection: Disconnected
+[02Apr2025 21:53:46.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems left the game
+[02Apr2025 21:54:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KingTuPapi> zzzzzzzzzzzzzzzzzz
+[02Apr2025 21:54:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> no me deja dormir
+[02Apr2025 21:56:58.895] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71c99578
+[02Apr2025 21:56:58.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yofrems[/127.71.173.91:40567] logged in with entity id 167531 at (-1016.5888908258253, 69.0, -1273.438285027325)
+[02Apr2025 21:56:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to yofrems
+[02Apr2025 21:56:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to yofrems
+[02Apr2025 21:56:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to yofrems
+[02Apr2025 21:56:58.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to yofrems
+[02Apr2025 21:56:58.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to yofrems
+[02Apr2025 21:56:58.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to yofrems
+[02Apr2025 21:56:58.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to yofrems
+[02Apr2025 21:56:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems joined the game
+[02Apr2025 21:56:58.935] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 21:56:58.936] [Server thread/INFO] [Jade/]: Syncing config to yofrems (53ccd05c-7029-3ee7-95da-0611f98e3ffb)
+[02Apr2025 21:57:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> ni idea
+[02Apr2025 21:58:21.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02Apr2025 21:59:40.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yofrems lost connection: Disconnected
+[02Apr2025 21:59:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems left the game
+[02Apr2025 22:01:40.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KingTuPapi lost connection: Disconnected
+[02Apr2025 22:01:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi left the game
+[02Apr2025 22:02:19.581] [Worker-Main-119/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[02Apr2025 22:02:21.144] [Worker-Main-170/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -39], pos: MutableBlockPos{x=255, y=68, z=-613}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:02:21.145] [Worker-Main-170/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -39], pos: MutableBlockPos{x=254, y=68, z=-612}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:03:03.191] [Worker-Main-118/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, -40], pos: MutableBlockPos{x=239, y=66, z=-625}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:09:24.875] [Worker-Main-119/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-18, -63], pos: MutableBlockPos{x=-274, y=81, z=-994}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:15:37.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/183525, l='ServerLevel[world]', x=-504.50, y=62.00, z=-891.50]
+[02Apr2025 22:16:15.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@734bd5e5
+[02Apr2025 22:16:15.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yofrems[/127.71.173.91:58359] logged in with entity id 184617 at (-1018.3193576701176, 69.0, -1277.114569934286)
+[02Apr2025 22:16:15.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to yofrems
+[02Apr2025 22:16:15.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to yofrems
+[02Apr2025 22:16:15.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to yofrems
+[02Apr2025 22:16:15.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to yofrems
+[02Apr2025 22:16:15.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to yofrems
+[02Apr2025 22:16:15.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to yofrems
+[02Apr2025 22:16:15.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to yofrems
+[02Apr2025 22:16:15.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems joined the game
+[02Apr2025 22:16:15.917] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 22:16:15.918] [Server thread/INFO] [Jade/]: Syncing config to yofrems (53ccd05c-7029-3ee7-95da-0611f98e3ffb)
+[02Apr2025 22:17:27.264] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/186976, l='ServerLevel[world]', x=-505.50, y=62.00, z=-891.50]
+[02Apr2025 22:19:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [A Little Hot Rod Red]
+[02Apr2025 22:24:50.993] [Worker-Main-118/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, -127], pos: BlockPos{x=-163, y=65, z=-2017}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@18dc3524: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@38ce6e75}
+[02Apr2025 22:24:50.993] [Worker-Main-118/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, -127], pos: BlockPos{x=-166, y=64, z=-2017}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@18dc3524: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@38ce6e75}
+[02Apr2025 22:25:00.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/198642, l='ServerLevel[world]', x=-246.50, y=53.00, z=-1921.50]
+[02Apr2025 22:25:01.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/198696, l='ServerLevel[world]', x=-247.50, y=53.00, z=-1920.50]
+[02Apr2025 22:26:01.659] [Worker-Main-186/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [5, -124], pos: MutableBlockPos{x=86, y=76, z=-1969}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:26:19.005] [Worker-Main-118/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -124], pos: MutableBlockPos{x=142, y=66, z=-1970}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:26:19.006] [Worker-Main-118/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, -124], pos: MutableBlockPos{x=143, y=66, z=-1974}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 22:27:15.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Disconnected
+[02Apr2025 22:27:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[02Apr2025 22:34:34.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39b4936d
+[02Apr2025 22:34:34.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:45773] logged in with entity id 202773 at (25.339479330704602, 57.0, -1962.49554435838)
+[02Apr2025 22:34:34.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[02Apr2025 22:34:34.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[02Apr2025 22:34:34.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[02Apr2025 22:34:34.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[02Apr2025 22:34:34.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[02Apr2025 22:34:34.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[02Apr2025 22:34:34.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[02Apr2025 22:34:34.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[02Apr2025 22:34:34.627] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Apr2025 22:34:34.628] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[02Apr2025 22:35:16.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/197057, l='ServerLevel[world]', x=1128.30, y=104.42, z=-1565.50] died, message: 'Unemployed was incinerated by Fire Dragon'
+[02Apr2025 22:38:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [yofrems: Teleported yofrems to Dinosaur_Meap]
+[02Apr2025 22:39:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Sneak 100]
+[02Apr2025 22:40:25.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to yofrems]
