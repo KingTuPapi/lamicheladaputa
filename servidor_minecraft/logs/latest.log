@@ -937,3 +937,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Apr2025 20:48:49.484] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=107, y=70, z=-2075} but found not block entity block Block{minecraft:air} at location
 [02Apr2025 20:48:49.484] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=107, y=70, z=-2075}
 [02Apr2025 20:48:57.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/135429, l='ServerLevel[world]', x=288.50, y=17.00, z=-2301.50]
+[02Apr2025 20:49:30.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was turned into gorgonzola by Gorgon
+[02Apr2025 20:49:30.291] [Server thread/INFO] [tombstone/]: The player yofrems has successfully been saved
+[02Apr2025 20:50:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has reached the goal [Chain Death]
+[02Apr2025 20:50:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was turned to stone by Gorgon
+[02Apr2025 20:50:25.999] [Server thread/INFO] [tombstone/]: The player yofrems has successfully been saved
+[02Apr2025 20:50:36.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has reached the goal [Here They Come]
+[02Apr2025 20:50:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems was turned into gorgonzola by Gorgon
+[02Apr2025 20:50:37.490] [Server thread/INFO] [tombstone/]: The player yofrems has successfully been saved
+[02Apr2025 20:50:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems has made the advancement [Clash of the Titans]
+[02Apr2025 20:51:53.627] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=64, z=18}
+[02Apr2025 20:51:56.471] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [3, -129], pos: MutableBlockPos{x=62, y=67, z=-2056}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 20:52:04.696] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-3, -132], pos: MutableBlockPos{x=-46, y=68, z=-2099}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 20:52:04.696] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-3, -132], pos: MutableBlockPos{x=-43, y=69, z=-2101}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 20:52:04.696] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-3, -132], pos: MutableBlockPos{x=-40, y=70, z=-2108}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@37af222e: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@4849a15f}
+[02Apr2025 20:52:49.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Disconnected
+[02Apr2025 20:52:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[02Apr2025 20:54:37.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yofrems lost connection: Disconnected
+[02Apr2025 20:54:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yofrems left the game

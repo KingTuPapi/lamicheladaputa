@@ -2999,9 +2999,11 @@
       "coniferous_forest": "2025-04-02 20:00:38 +0000",
       "dryland": "2025-04-02 01:30:07 +0000",
       "wasteland": "2025-04-02 01:21:07 +0000",
+      "seasonal_forest": "2025-04-02 20:48:30 +0000",
       "rocky_rainforest": "2025-04-02 20:27:08 +0000",
       "lavender_field": "2025-04-02 20:38:23 +0000",
       "fir_clearing": "2025-04-02 20:03:55 +0000",
+      "pumpkin_patch": "2025-04-02 20:50:20 +0000",
       "grassland": "2025-04-02 20:16:50 +0000",
       "rainforest": "2025-04-02 20:25:49 +0000",
       "ominous_woods": "2025-04-02 20:04:18 +0000"
@@ -3515,6 +3517,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-02 01:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-02 20:53:12 +0000"
     },
     "done": true
   },
@@ -4210,6 +4218,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 20:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-02 01:17:41 +0000"
@@ -4258,6 +4272,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 20:50:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-02 01:59:50 +0000"
@@ -4300,6 +4320,12 @@
       "bread": "2025-04-02 01:20:02 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-02 20:50:58 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
