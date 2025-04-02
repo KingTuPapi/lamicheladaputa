@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_ladder": {
+    "criteria": {
+      "has_item": "2025-04-02 02:33:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-02 02:24:26 +0000"
     },
     "done": true
   },
@@ -1378,6 +1390,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_button": {
     "criteria": {
       "has_item": "2025-04-01 17:54:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 02:33:14 +0000"
     },
     "done": true
   },
