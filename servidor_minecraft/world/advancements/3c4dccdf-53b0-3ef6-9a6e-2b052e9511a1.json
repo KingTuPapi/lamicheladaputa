@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystal_glass_from_smelting_crystal_sand": {
+    "criteria": {
+      "has_item": "2025-04-02 20:41:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:36 +0000"
@@ -5671,6 +5677,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/crystal_sandstone": {
+    "criteria": {
+      "has_item": "2025-04-02 20:41:59 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab_stonecutting_lunar_stone": {
     "criteria": {
       "has_item": "2025-04-02 20:26:40 +0000"
@@ -6023,6 +6035,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stone": {
     "criteria": {
       "has_item": "2025-04-02 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/moonstone_shield": {
+    "criteria": {
+      "has_item": "2025-04-02 20:41:24 +0000"
     },
     "done": true
   },
