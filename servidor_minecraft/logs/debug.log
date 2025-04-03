@@ -8612,3 +8612,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:43:06.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Ol' Betsy]
 [03Apr2025 00:43:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Take Aim]
 [03Apr2025 00:43:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has made the advancement [Take Aim]
+[03Apr2025 00:43:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Ambush]
+[03Apr2025 00:44:09.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Voluntary Exile]
+[03Apr2025 00:44:11.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has completed the challenge [Hero of the Village]
+[03Apr2025 00:44:11.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has completed the challenge [Hero of the Village]
+[03Apr2025 00:44:11.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has completed the challenge [Hero of the Village]
+[03Apr2025 00:47:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
+[03Apr2025 00:47:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EctorLavo: Teleported EctorLavo to DarkChino27]
+[03Apr2025 00:47:27.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:47:27.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:47:31.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EctorLavo: Teleported EctorLavo to DarkChino27]
+[03Apr2025 00:50:47.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EctorLavo lost connection: Disconnected
+[03Apr2025 00:50:47.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo left the game
+[03Apr2025 00:52:27.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:52:27.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:52:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ashes 'n Bones]
+[03Apr2025 00:52:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Sneak 100]

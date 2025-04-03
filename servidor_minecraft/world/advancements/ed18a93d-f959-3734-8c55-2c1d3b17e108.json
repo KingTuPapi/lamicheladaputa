@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:53:42 +0000"
@@ -1605,6 +1611,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
@@ -1710,6 +1722,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/lime_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "hero_proof:hero_proof": {
+    "criteria": {
+      "Medal": "2025-04-03 00:44:11 +0000"
     },
     "done": true
   },
@@ -2475,6 +2493,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-04-01 15:46:28 +0000"
@@ -2836,6 +2860,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-03 00:51:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 15:45:42 +0000"
@@ -2896,7 +2926,9 @@
       "shrubland": "2025-04-01 16:26:27 +0000",
       "scrubland": "2025-04-01 16:00:46 +0000",
       "old_growth_woodland": "2025-04-01 16:13:36 +0000",
+      "field": "2025-04-03 00:47:14 +0000",
       "mediterranean_forest": "2025-04-01 15:58:58 +0000",
+      "coniferous_forest": "2025-04-03 00:51:17 +0000",
       "spider_nest": "2025-04-01 16:06:22 +0000",
       "wasteland": "2025-04-01 15:54:17 +0000"
     },
@@ -3007,6 +3039,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:00:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
     },
     "done": true
   },
@@ -3260,6 +3298,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-04-01 17:50:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
     },
     "done": true
   },
@@ -3930,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-03 00:44:11 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-04-01 16:02:17 +0000"
@@ -4164,6 +4214,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_mangrove_stool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
@@ -4323,6 +4379,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-01 16:05:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-03 00:51:07 +0000"
     },
     "done": true
   },
@@ -4520,6 +4582,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-01 18:06:18 +0000"
@@ -4664,6 +4732,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2025-04-01 16:17:26 +0000"
@@ -4745,6 +4819,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-01 17:27:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-04-03 00:52:06 +0000"
     },
     "done": true
   },
