@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_soul_fire_base_blocks": "2025-04-03 04:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-03 00:31:12 +0000"
@@ -722,6 +728,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -968,6 +980,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-04-01 17:27:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -1447,6 +1465,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-03 03:50:14 +0000",
       "minecraft:nether_wastes": "2025-04-03 03:41:42 +0000",
+      "minecraft:soul_sand_valley": "2025-04-03 04:05:33 +0000",
       "minecraft:warped_forest": "2025-04-03 03:48:11 +0000"
     },
     "done": false
@@ -2536,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-04-01 16:19:25 +0000"
@@ -2716,6 +2741,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-03 03:56:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
     "criteria": {
       "has_item": "2025-04-03 01:52:47 +0000"
@@ -2873,6 +2904,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-03 03:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-03 01:37:41 +0000"
@@ -3008,6 +3045,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/black_upholstered_warped_stool": {
     "criteria": {
       "has_black_wool": "2025-04-01 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -3209,6 +3252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 16:25:25 +0000"
@@ -3224,6 +3273,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -3623,6 +3678,7 @@
       "shrubland": "2025-04-03 02:09:32 +0000",
       "scrubland": "2025-04-01 16:19:54 +0000",
       "old_growth_woodland": "2025-04-01 16:19:16 +0000",
+      "crystalline_chasm": "2025-04-03 04:07:21 +0000",
       "orchard": "2025-04-01 16:31:52 +0000",
       "field": "2025-04-03 00:10:30 +0000",
       "mediterranean_forest": "2025-04-01 17:02:18 +0000",
@@ -3631,6 +3687,7 @@
       "visceral_heap": "2025-04-03 03:49:01 +0000",
       "fir_clearing": "2025-04-03 02:00:41 +0000",
       "grassland": "2025-04-03 02:08:04 +0000",
+      "undergrowth": "2025-04-03 04:07:26 +0000",
       "ominous_woods": "2025-04-03 01:54:50 +0000"
     },
     "done": false
@@ -3841,8 +3898,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-03 03:54:21 +0000",
       "minecraft:pillager": "2025-04-03 00:43:18 +0000",
       "minecraft:skeleton": "2025-04-01 16:26:34 +0000",
+      "minecraft:hoglin": "2025-04-03 04:02:23 +0000",
       "minecraft:vindicator": "2025-04-03 00:42:21 +0000",
       "minecraft:spider": "2025-04-01 17:21:01 +0000",
       "minecraft:creeper": "2025-04-01 16:20:53 +0000",
@@ -3977,6 +4036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-01 16:33:12 +0000"
@@ -4040,6 +4105,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_acacia_stool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:56:57 +0000"
     },
     "done": true
   },
@@ -4130,6 +4201,12 @@
   "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
     "criteria": {
       "has_resource": "2025-04-01 17:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -4466,6 +4543,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/black_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 16:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -4847,6 +4930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-03 04:05:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 16:33:12 +0000"
@@ -5012,6 +5101,12 @@
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
       "has_paper": "2025-04-01 16:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },
@@ -6055,6 +6150,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 03:56:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-01 16:18:33 +0000"
@@ -6259,6 +6360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-01 16:18:02 +0000"
@@ -6406,6 +6513,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-03 03:56:03 +0000"
     },
     "done": true
   },

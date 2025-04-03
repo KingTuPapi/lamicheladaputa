@@ -1331,7 +1331,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-04-03 03:19:53 +0000"
+      "minecraft:crimson_forest": "2025-04-03 03:57:17 +0000",
+      "minecraft:nether_wastes": "2025-04-03 03:58:27 +0000",
+      "minecraft:soul_sand_valley": "2025-04-03 03:19:53 +0000",
+      "minecraft:basalt_deltas": "2025-04-03 04:03:49 +0000"
     },
     "done": false
   },
@@ -1662,6 +1665,18 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-04-03 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 03:57:59 +0000"
     },
     "done": true
   },
@@ -2649,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-03 03:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-01 16:24:11 +0000"
@@ -3297,6 +3318,7 @@
       "woodland": "2025-04-01 16:13:56 +0000",
       "shrubland": "2025-04-01 16:26:27 +0000",
       "scrubland": "2025-04-01 16:00:46 +0000",
+      "erupting_inferno": "2025-04-03 04:03:30 +0000",
       "old_growth_woodland": "2025-04-01 16:13:36 +0000",
       "crystalline_chasm": "2025-04-03 03:20:31 +0000",
       "field": "2025-04-03 00:47:14 +0000",
@@ -3504,6 +3526,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-03 03:57:27 +0000",
       "minecraft:skeleton": "2025-04-01 16:36:07 +0000",
       "minecraft:vindicator": "2025-04-02 21:46:36 +0000",
       "minecraft:spider": "2025-04-01 16:55:30 +0000",
@@ -3511,6 +3534,7 @@
       "minecraft:creeper": "2025-04-03 01:47:09 +0000",
       "minecraft:phantom": "2025-04-02 03:27:11 +0000",
       "minecraft:witch": "2025-04-03 02:05:57 +0000",
+      "minecraft:wither_skeleton": "2025-04-03 03:57:59 +0000",
       "minecraft:cave_spider": "2025-04-01 16:06:35 +0000",
       "minecraft:piglin": "2025-04-03 03:23:02 +0000",
       "minecraft:enderman": "2025-04-01 17:50:16 +0000",
@@ -3672,6 +3696,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_acacia_stool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:57:29 +0000"
     },
     "done": true
   },
@@ -5292,6 +5322,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-03 03:57:17 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-04-01 16:00:35 +0000"
@@ -5547,6 +5583,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:57:29 +0000"
     },
     "done": true
   },
