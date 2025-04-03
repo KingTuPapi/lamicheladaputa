@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-03 02:06:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-04-01 15:45:42 +0000"
@@ -332,6 +338,12 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-02 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-03 02:22:12 +0000"
     },
     "done": true
   },
@@ -542,6 +554,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-03 02:22:13 +0000"
     },
     "done": true
   },
@@ -1046,6 +1064,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-04-03 01:55:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-04-02 21:51:36 +0000"
@@ -1335,6 +1359,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-04-03 02:22:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:22 +0000"
@@ -1418,6 +1448,12 @@
       "has_stone": "2025-04-01 16:20:03 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-04-03 01:55:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1857,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-03 01:35:21 +0000"
@@ -1974,6 +2016,12 @@
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-04-01 16:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
     },
     "done": true
   },
@@ -2345,6 +2393,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 16:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
     },
     "done": true
   },
@@ -2926,6 +2980,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-03 02:24:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:22 +0000"
@@ -3020,7 +3080,10 @@
       "mediterranean_forest": "2025-04-01 15:58:58 +0000",
       "coniferous_forest": "2025-04-03 00:51:17 +0000",
       "spider_nest": "2025-04-01 16:06:22 +0000",
-      "wasteland": "2025-04-01 15:54:17 +0000"
+      "wasteland": "2025-04-01 15:54:17 +0000",
+      "fir_clearing": "2025-04-03 01:58:45 +0000",
+      "grassland": "2025-04-03 02:08:16 +0000",
+      "ominous_woods": "2025-04-03 01:53:09 +0000"
     },
     "done": false
   },
@@ -3217,6 +3280,7 @@
       "minecraft:spider": "2025-04-01 16:55:30 +0000",
       "minecraft:creeper": "2025-04-03 01:47:09 +0000",
       "minecraft:phantom": "2025-04-02 03:27:11 +0000",
+      "minecraft:witch": "2025-04-03 02:05:57 +0000",
       "minecraft:cave_spider": "2025-04-01 16:06:35 +0000",
       "minecraft:enderman": "2025-04-01 17:50:16 +0000",
       "minecraft:zombie": "2025-04-01 16:47:00 +0000",
@@ -3227,6 +3291,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-01 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-04-03 02:22:12 +0000"
     },
     "done": true
   },
@@ -3626,6 +3702,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-03 02:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-01 16:49:37 +0000"
@@ -3760,6 +3842,7 @@
       "minecraft:deep_frozen_ocean": "2025-04-02 21:45:35 +0000",
       "minecraft:warm_ocean": "2025-04-01 15:52:26 +0000",
       "minecraft:flower_forest": "2025-04-01 16:27:54 +0000",
+      "minecraft:deep_dark": "2025-04-03 02:28:44 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-02 21:42:00 +0000",
       "minecraft:savanna": "2025-04-01 15:55:12 +0000",
       "minecraft:plains": "2025-04-01 15:56:01 +0000"
@@ -3841,6 +3924,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-01 16:16:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-03 02:07:39 +0000"
     },
     "done": true
   },
@@ -4210,6 +4299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-03 02:27:38 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-04-01 16:11:49 +0000"
@@ -4277,8 +4372,10 @@
       "cooked_chicken": "2025-04-01 16:48:11 +0000",
       "cooked_mutton": "2025-04-01 16:05:04 +0000",
       "apple": "2025-04-01 18:15:27 +0000",
+      "cooked_cod": "2025-04-03 02:04:47 +0000",
       "bread": "2025-04-01 16:16:23 +0000",
-      "melon_slice": "2025-04-01 17:45:48 +0000"
+      "melon_slice": "2025-04-01 17:45:48 +0000",
+      "cooked_salmon": "2025-04-03 02:02:08 +0000"
     },
     "done": false
   },
@@ -4327,6 +4424,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-03 00:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
     },
     "done": true
   },
@@ -4408,6 +4511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-03 02:27:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 15:59:31 +0000"
@@ -4456,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
+    },
+    "done": true
+  },
   "seadwellers:adv_root": {
     "criteria": {
       "adv_root": "2025-04-01 15:45:42 +0000"
@@ -4465,6 +4580,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_curtain": {
     "criteria": {
       "has_item": "2025-04-01 16:03:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-03 02:16:19 +0000"
     },
     "done": true
   },
@@ -5106,6 +5227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-04-01 16:49:37 +0000"
@@ -5133,6 +5260,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-03 01:57:39 +0000"
     },
     "done": true
   },
@@ -5307,6 +5440,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 16:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-03 02:05:57 +0000"
     },
     "done": true
   },
