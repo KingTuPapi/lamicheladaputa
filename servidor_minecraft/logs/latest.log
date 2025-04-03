@@ -7109,3 +7109,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 16:14:53.130] [Worker-Main-14/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [174, -79], pos: MutableBlockPos{x=2797, y=67, z=-1251}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureVegetation@c568bf9: net.minecraft.world.level.levelgen.feature.configurations.ProbabilityFeatureConfiguration@39e8671f}
 [03Apr2025 16:15:37.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
 [03Apr2025 16:15:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[03Apr2025 16:21:22.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KingTuPapi lost connection: Disconnected
+[03Apr2025 16:21:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi left the game
