@@ -702,3 +702,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:18:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Warm Inside]
 [03Apr2025 00:22:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkChino27> zzzzzzzzzzzzzzzzzz
 [03Apr2025 00:22:11.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> NO
+[03Apr2025 00:24:27.046] [Worker-Main-3/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03Apr2025 00:28:17.830] [Worker-Main-2/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03Apr2025 00:28:39.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Disconnected
+[03Apr2025 00:28:39.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[03Apr2025 00:30:30.461] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel] rejected their client side version number
+[03Apr2025 00:30:30.461] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Apr2025 00:30:30.509] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45ca2596[id=<null>,name=EctorLavo,properties={},legacy=false] (/127.248.78.55:55505) lost connection: Connection closed - mismatched mod channel list
+[03Apr2025 00:32:09.368] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1686ddca
+[03Apr2025 00:32:09.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EctorLavo[/127.248.78.55:50233] logged in with entity id 72367 at (-576.2619784509699, 64.0, -28.058259159466676)
+[03Apr2025 00:32:09.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EctorLavo
+[03Apr2025 00:32:09.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EctorLavo
+[03Apr2025 00:32:09.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EctorLavo
+[03Apr2025 00:32:09.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EctorLavo
+[03Apr2025 00:32:09.383] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EctorLavo
+[03Apr2025 00:32:09.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EctorLavo
+[03Apr2025 00:32:09.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EctorLavo
+[03Apr2025 00:32:09.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo joined the game
+[03Apr2025 00:32:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has reached the goal [Easter]
+[03Apr2025 00:32:09.416] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Apr2025 00:32:09.417] [Server thread/INFO] [Jade/]: Syncing config to EctorLavo (3a0b758c-99e2-335f-a81f-21c3c25c1a4f)
