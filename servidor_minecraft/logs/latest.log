@@ -699,3 +699,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:10:25.526] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [03Apr2025 00:10:25.528] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
 [03Apr2025 00:10:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to Dinosaur_Meap]
+[03Apr2025 00:18:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Warm Inside]
+[03Apr2025 00:22:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkChino27> zzzzzzzzzzzzzzzzzz
+[03Apr2025 00:22:11.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> NO

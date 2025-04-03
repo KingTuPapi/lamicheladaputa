@@ -7692,3 +7692,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:10:25.528] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
 [03Apr2025 00:10:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to Dinosaur_Meap]
 [03Apr2025 00:10:30.757] [Netty Epoll Server IO #2/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@51493b53, id=1, name=SimplePacket - class org.valkyrienskies.core.impl.networking.impl.PacketRequestUdp)
+[03Apr2025 00:12:27.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:12:27.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:17:27.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:17:27.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:18:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Warm Inside]
+[03Apr2025 00:20:14.754] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/keep_create
+[03Apr2025 00:20:14.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep
+[03Apr2025 00:20:18.862] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_circle
+[03Apr2025 00:20:18.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower1
+[03Apr2025 00:20:18.866] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[03Apr2025 00:20:18.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[03Apr2025 00:20:24.612] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:starts/center
+[03Apr2025 00:20:37.440] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:village/moon/lunarian_village/entrance
+[03Apr2025 00:20:37.458] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:venus_tower
+[03Apr2025 00:20:49.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/base
+[03Apr2025 00:20:49.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/segment
+[03Apr2025 00:20:49.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/segment_top
+[03Apr2025 00:20:49.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/tower_top
+[03Apr2025 00:20:49.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/bridge
+[03Apr2025 00:20:49.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_prison
+[03Apr2025 00:20:49.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_study
+[03Apr2025 00:20:49.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_witch
+[03Apr2025 00:20:49.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:dungeons/everdawn/blinding/small_tower_library_2
+[03Apr2025 00:20:49.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:warped_watch_tower
+[03Apr2025 00:20:53.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[03Apr2025 00:20:54.955] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[03Apr2025 00:21:03.238] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[03Apr2025 00:21:09.164] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[03Apr2025 00:21:20.481] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:bunker/entrance
+[03Apr2025 00:21:20.508] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_sm
+[03Apr2025 00:21:30.093] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_lg
+[03Apr2025 00:21:30.103] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:temple/mars/mars_temple
+[03Apr2025 00:22:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkChino27> zzzzzzzzzzzzzzzzzz
+[03Apr2025 00:22:11.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dinosaur_Meap> NO
+[03Apr2025 00:22:13.404] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:dungeon/moon/entrance
+[03Apr2025 00:22:13.415] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:village/moon/lunar_tower
+[03Apr2025 00:22:23.605] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[03Apr2025 00:22:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:22:27.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1281,6 +1281,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/horizonite_helmet": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/orange_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:47:59 +0000"
@@ -2823,6 +2829,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
+    "criteria": {
+      "has_resource": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 01:07:57 +0000"
@@ -3791,6 +3803,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/horizonite_block": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_pressure_plate": {
     "criteria": {
       "has_item": "2025-04-02 15:16:15 +0000"
@@ -3924,6 +3942,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/horizonite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
@@ -4083,6 +4107,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/get_horizonite": {
+    "criteria": {
+      "obtain_material": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-01 16:11:21 +0000"
@@ -4149,6 +4179,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
@@ -4353,6 +4389,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
+    "criteria": {
+      "has_resource": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
@@ -4758,6 +4800,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
+    "criteria": {
+      "has_resource": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-04-01 01:33:02 +0000"
@@ -5159,6 +5207,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/horizonite_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
@@ -5228,6 +5282,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/horizonite_leggings": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
@@ -5483,6 +5543,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/horizonite_forge": {
+    "criteria": {
+      "has_item": "2025-04-03 00:18:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
     "criteria": {
       "has_resource": "2025-04-02 01:43:03 +0000"
@@ -5528,6 +5594,12 @@
   "blue_skies:recipes/blue_skies_misc/cooked_monitor_tail_from_smelting_monitor_tail": {
     "criteria": {
       "has_item": "2025-04-02 15:17:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
@@ -6602,6 +6674,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 15:59:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+    "criteria": {
+      "has_resource": "2025-04-03 00:18:29 +0000"
     },
     "done": true
   },
