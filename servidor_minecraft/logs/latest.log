@@ -777,3 +777,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:50:47.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo left the game
 [03Apr2025 00:52:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Ashes 'n Bones]
 [03Apr2025 00:52:40.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Sneak 100]
+[03Apr2025 00:54:59.141] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-85, -78], pos: BlockPos{x=-1359, y=60, z=-1233}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@c7d7981: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@72a4aba4}
+[03Apr2025 00:55:37.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/85266, l='ServerLevel[world]', x=-1207.50, y=57.00, z=-1146.50]
+[03Apr2025 00:55:52.983] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@bb22013
+[03Apr2025 00:55:52.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:57089] logged in with entity id 85346 at (-1612.27158163083, 56.0, 136.9322564711999)
+[03Apr2025 00:55:52.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[03Apr2025 00:55:52.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[03Apr2025 00:55:52.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[03Apr2025 00:55:52.992] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[03Apr2025 00:55:52.994] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[03Apr2025 00:55:52.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[03Apr2025 00:55:52.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[03Apr2025 00:55:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[03Apr2025 00:55:53.015] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Apr2025 00:55:53.016] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[03Apr2025 00:57:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has reached the goal [Strong or Careful]
+[03Apr2025 00:57:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 was shot by Skeleton
+[03Apr2025 00:57:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Your First Grave]
+[03Apr2025 00:57:57.682] [Server thread/INFO] [tombstone/]: The player DarkChino27 has successfully been saved
