@@ -2621,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-03 03:52:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-04-02 03:52:59 +0000"
@@ -3583,12 +3589,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-02 23:18:24 +0000",
+      "minecraft:blaze": "2025-04-03 03:52:23 +0000",
       "minecraft:skeleton": "2025-04-02 01:35:48 +0000",
       "minecraft:ghast": "2025-04-03 03:13:25 +0000",
       "minecraft:spider": "2025-04-02 01:36:43 +0000",
       "minecraft:piglin_brute": "2025-04-03 03:21:12 +0000",
       "minecraft:creeper": "2025-04-02 19:13:22 +0000",
       "minecraft:witch": "2025-04-02 01:43:16 +0000",
+      "minecraft:wither_skeleton": "2025-04-03 03:53:01 +0000",
       "minecraft:piglin": "2025-04-03 03:11:45 +0000",
       "minecraft:enderman": "2025-04-02 01:44:51 +0000",
       "minecraft:zombie": "2025-04-02 01:36:34 +0000",
@@ -3749,6 +3757,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_acacia_stool": {
     "criteria": {
       "has_white_wool": "2025-04-02 01:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:52:24 +0000"
     },
     "done": true
   },
@@ -5510,6 +5524,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-03 03:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-02 19:37:32 +0000"
@@ -5789,6 +5809,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-02 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 03:52:24 +0000"
     },
     "done": true
   },

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-04-01 16:35:07 +0000"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:59:14 +0000"
@@ -542,6 +554,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/blue_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 16:33:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_sign": {
     "criteria": {
       "has_item": "2025-04-01 17:53:20 +0000"
@@ -650,6 +674,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-03 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -758,6 +788,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-04-01 16:27:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-03 03:52:45 +0000"
     },
     "done": true
   },
@@ -1341,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-03 03:46:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:23:34 +0000"
@@ -1403,7 +1445,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-03 03:41:42 +0000"
+      "minecraft:crimson_forest": "2025-04-03 03:50:14 +0000",
+      "minecraft:nether_wastes": "2025-04-03 03:41:42 +0000",
+      "minecraft:warped_forest": "2025-04-03 03:48:11 +0000"
     },
     "done": false
   },
@@ -1434,6 +1478,12 @@
   "blue_skies:recipes/blue_skies_blocks/raw_ventium_block_from_raw_ventium": {
     "criteria": {
       "has_item": "2025-04-01 17:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-03 03:43:31 +0000"
     },
     "done": true
   },
@@ -2265,6 +2315,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:23:34 +0000"
@@ -2618,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-03 03:43:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/big_red_glazed_jar": {
     "criteria": {
       "has_red_terracotta": "2025-04-01 17:27:11 +0000"
@@ -2738,6 +2800,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-01 16:19:25 +0000"
@@ -2820,6 +2888,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-04-01 16:16:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -3147,6 +3221,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-01 16:18:15 +0000"
@@ -3231,6 +3311,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 16:52:42 +0000"
@@ -3312,6 +3398,12 @@
   "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
     "criteria": {
       "has_resource": "2025-04-01 17:57:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -3496,6 +3588,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-03 02:35:49 +0000"
@@ -3530,6 +3628,7 @@
       "mediterranean_forest": "2025-04-01 17:02:18 +0000",
       "coniferous_forest": "2025-04-01 16:29:58 +0000",
       "spider_nest": "2025-04-01 16:26:22 +0000",
+      "visceral_heap": "2025-04-03 03:49:01 +0000",
       "fir_clearing": "2025-04-03 02:00:41 +0000",
       "grassland": "2025-04-03 02:08:04 +0000",
       "ominous_woods": "2025-04-03 01:54:50 +0000"
@@ -3734,6 +3833,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-03 00:43:18 +0000",
@@ -3791,6 +3896,12 @@
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -3875,6 +3986,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-03 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -4001,6 +4118,12 @@
   "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
     "criteria": {
       "has_resource": "2025-04-01 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -4169,6 +4292,12 @@
   "blue_skies:recipes/blue_skies_combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-04-01 18:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -4898,6 +5027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-03 03:49:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/cherry_spear": {
     "criteria": {
       "has_item": "2025-04-01 17:50:38 +0000"
@@ -4967,6 +5102,12 @@
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 16:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
     },
     "done": true
   },
@@ -5057,6 +5198,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/valhelsia_furniture/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -5282,6 +5429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-03 01:52:47 +0000"
@@ -5408,6 +5561,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:59:13 +0000"
@@ -5468,6 +5627,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/valhelsia_furniture/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-04-01 16:33:12 +0000",
@@ -5496,6 +5661,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-01 17:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -5788,6 +5959,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-03 03:53:45 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-04-01 16:18:17 +0000"
@@ -5845,6 +6022,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/blue_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-03 03:45:10 +0000"
     },
     "done": true
   },
@@ -5965,6 +6148,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
     "criteria": {
       "has_item": "2025-04-01 16:23:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
@@ -6142,6 +6331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-01 17:35:56 +0000"
@@ -6307,6 +6502,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-01 16:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-03 03:44:50 +0000"
     },
     "done": true
   },
