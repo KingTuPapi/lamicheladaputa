@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 00:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 16:59:14 +0000"
@@ -1479,15 +1485,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stone": {
-    "criteria": {
-      "has_item": "2025-04-01 17:58:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-04-01 17:58:22 +0000"
     },
     "done": true
   },
@@ -1551,15 +1557,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_fence_gate": {
-    "criteria": {
-      "has_item": "2025-04-01 17:48:48 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/blue_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:35:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2025-04-01 17:48:48 +0000"
     },
     "done": true
   },
@@ -3469,15 +3475,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-04-01 18:07:45 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_misc/bluebright_stick": {
     "criteria": {
       "has_item": "2025-04-01 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-01 18:07:45 +0000"
     },
     "done": true
   },
@@ -3547,15 +3553,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_everbright_blocks/polished_rimestone": {
-    "criteria": {
-      "has_item": "2025-04-01 17:59:53 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:35:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/polished_rimestone": {
+    "criteria": {
+      "has_item": "2025-04-01 17:59:53 +0000"
     },
     "done": true
   },
@@ -4324,15 +4330,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
-    "criteria": {
-      "has_resource": "2025-04-01 17:48:48 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/valhelsia_furniture/lime_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2025-04-01 17:48:48 +0000"
     },
     "done": true
   },
@@ -4923,6 +4929,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-01 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-03 00:06:45 +0000"
     },
     "done": true
   },

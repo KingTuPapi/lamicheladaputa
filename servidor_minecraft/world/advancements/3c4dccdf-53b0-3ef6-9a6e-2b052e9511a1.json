@@ -474,6 +474,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_slab": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-01 16:17:45 +0000"
@@ -573,6 +579,12 @@
   "minecraft:recipes/transportation/charred_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-02 21:43:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/raw_charoite_block_from_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:25 +0000"
     },
     "done": true
   },
@@ -744,6 +756,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/white_upholstered_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:06:54 +0000"
@@ -888,6 +906,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/sunstone_block": {
+    "criteria": {
+      "has_item": "2025-04-02 23:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-02 03:52:31 +0000"
@@ -1002,6 +1026,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab": {
     "criteria": {
       "has_item": "2025-04-01 17:44:04 +0000"
@@ -1110,6 +1140,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-02 19:24:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/horizonite_ingot_from_blasting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:16:11 +0000"
     },
     "done": true
   },
@@ -1305,6 +1341,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2025-04-02 23:17:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-04-01 15:50:42 +0000"
@@ -1392,6 +1434,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_planks": {
+    "criteria": {
+      "has_item": "2025-04-02 23:07:04 +0000"
     },
     "done": true
   },
@@ -1795,6 +1843,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 18:23:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -2218,6 +2272,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-01 15:56:16 +0000"
@@ -2245,6 +2305,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-02 22:43:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_stairs": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
     },
     "done": true
   },
@@ -2422,6 +2488,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_wall": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-04-01 01:33:02 +0000"
@@ -2583,6 +2655,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-02 18:23:57 +0000"
@@ -2616,6 +2694,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/pink_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-02 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/charoite_from_smelting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:25 +0000"
     },
     "done": true
   },
@@ -2751,6 +2835,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/polished_umber_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-02 21:43:46 +0000"
@@ -2856,6 +2946,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-04-02 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/polished_umber": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
     },
     "done": true
   },
@@ -3076,6 +3172,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_wall_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/gray_warped_chair": {
     "criteria": {
       "has_gray_wool": "2025-04-01 16:17:40 +0000"
@@ -3118,6 +3220,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/charoite_from_blasting_raw_charoite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:25 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-04-01 15:56:16 +0000"
@@ -3139,6 +3247,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-04-01 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-04-02 23:07:33 +0000"
     },
     "done": true
   },
@@ -3169,6 +3283,12 @@
   "taxov:advancement_pirate": {
     "criteria": {
       "advancement_pirate_0": "2025-04-02 18:35:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/raw_horizonite_block_from_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:16:11 +0000"
     },
     "done": true
   },
@@ -3217,6 +3337,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-04-02 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/diopside_block": {
+    "criteria": {
+      "has_item": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -3553,6 +3679,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-01 16:04:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_slab_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
     },
     "done": true
   },
@@ -4020,6 +4152,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-04-02 23:20:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/brown_fabric_desk_lamp": {
     "criteria": {
       "has_brown_wool": "2025-04-01 17:57:47 +0000"
@@ -4029,6 +4167,12 @@
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-02 03:52:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -4107,6 +4251,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-02 21:47:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -4479,6 +4629,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-02 21:43:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -4967,6 +5123,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_block_from_moonstone_crystal": {
+    "criteria": {
+      "has_item": "2025-04-02 23:01:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2025-04-01 01:33:02 +0000"
@@ -4988,6 +5150,12 @@
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-04-02 23:20:52 +0000"
     },
     "done": true
   },
@@ -5395,7 +5563,8 @@
       "cookie": "2025-04-01 16:28:52 +0000",
       "cooked_mutton": "2025-04-02 03:56:16 +0000",
       "apple": "2025-04-01 16:04:46 +0000",
-      "bread": "2025-04-01 15:57:59 +0000"
+      "bread": "2025-04-01 15:57:59 +0000",
+      "melon_slice": "2025-04-03 00:05:19 +0000"
     },
     "done": false
   },
@@ -5907,8 +6076,10 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
+      "kill_emberback": "2025-04-02 23:02:31 +0000",
       "kill_infested_swarmer": "2025-04-02 03:34:35 +0000",
-      "kill_nyctofly": "2025-04-02 03:29:24 +0000"
+      "kill_nyctofly": "2025-04-02 03:29:24 +0000",
+      "kill_venom_spider": "2025-04-02 23:14:53 +0000"
     },
     "done": false
   },
@@ -6113,6 +6284,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-02 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/umber_stairs_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2025-04-02 23:23:31 +0000"
     },
     "done": true
   },
@@ -6621,6 +6798,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/horizonite_ingot_from_smelting_raw_horizonite": {
+    "criteria": {
+      "has_item": "2025-04-02 23:16:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/black_upholstered_crimson_chair": {
     "criteria": {
       "has_black_wool": "2025-04-01 16:18:01 +0000"
@@ -6714,6 +6897,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_chest": {
     "criteria": {
       "has_item": "2025-04-01 17:54:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-04-02 23:07:33 +0000"
     },
     "done": true
   },
