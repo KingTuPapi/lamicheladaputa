@@ -2860,6 +2860,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-03 15:27:43 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-01 15:56:16 +0000"
@@ -3426,6 +3432,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2025-04-02 19:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/fine_sandstone": {
+    "criteria": {
+      "has_item": "2025-04-03 16:06:44 +0000"
     },
     "done": true
   },
@@ -4419,6 +4431,7 @@
     "criteria": {
       "woodland": "2025-04-01 16:25:29 +0000",
       "shrubland": "2025-04-01 16:29:23 +0000",
+      "rocky_shrubland": "2025-04-03 16:11:32 +0000",
       "scrubland": "2025-04-01 16:00:32 +0000",
       "highland": "2025-04-02 21:59:19 +0000",
       "jade_cliffs": "2025-04-02 22:00:41 +0000",
@@ -4428,12 +4441,15 @@
       "maple_woods": "2025-04-02 22:25:37 +0000",
       "field": "2025-04-02 18:08:35 +0000",
       "orchard": "2025-04-03 02:26:27 +0000",
+      "lavender_forest": "2025-04-03 15:50:26 +0000",
       "mediterranean_forest": "2025-04-01 15:56:43 +0000",
       "coniferous_forest": "2025-04-02 19:44:11 +0000",
       "spider_nest": "2025-04-02 03:52:32 +0000",
       "wasteland": "2025-04-01 15:54:15 +0000",
       "cherry_blossom_grove": "2025-04-03 02:26:28 +0000",
+      "dune_beach": "2025-04-03 15:52:03 +0000",
       "seasonal_forest": "2025-04-03 04:03:03 +0000",
+      "lavender_field": "2025-04-03 15:34:45 +0000",
       "fir_clearing": "2025-04-02 21:40:09 +0000",
       "pumpkin_patch": "2025-04-03 04:01:32 +0000",
       "grassland": "2025-04-02 04:03:18 +0000",
@@ -7488,6 +7504,12 @@
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-04-02 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-04-03 15:35:59 +0000"
     },
     "done": true
   },
