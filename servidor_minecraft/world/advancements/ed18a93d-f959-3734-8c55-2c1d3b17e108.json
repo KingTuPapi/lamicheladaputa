@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-03 01:49:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/yellow_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
@@ -1422,6 +1428,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-04-01 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2025-04-03 01:49:23 +0000"
     },
     "done": true
   },
@@ -3203,6 +3215,7 @@
       "minecraft:skeleton": "2025-04-01 16:36:07 +0000",
       "minecraft:vindicator": "2025-04-02 21:46:36 +0000",
       "minecraft:spider": "2025-04-01 16:55:30 +0000",
+      "minecraft:creeper": "2025-04-03 01:47:09 +0000",
       "minecraft:phantom": "2025-04-02 03:27:11 +0000",
       "minecraft:cave_spider": "2025-04-01 16:06:35 +0000",
       "minecraft:enderman": "2025-04-01 17:50:16 +0000",

@@ -9330,3 +9330,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 01:39:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Amateur Archaeologist]
 [03Apr2025 01:42:27.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Apr2025 01:42:27.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 01:45:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]
+[03Apr2025 01:46:52.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
+[03Apr2025 01:47:27.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 01:47:27.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 01:49:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Enchanter]
+[03Apr2025 01:51:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]
+[03Apr2025 01:52:27.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 01:52:27.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

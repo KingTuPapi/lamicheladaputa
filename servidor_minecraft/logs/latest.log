@@ -829,3 +829,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 01:37:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
 [03Apr2025 01:39:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
 [03Apr2025 01:39:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Amateur Archaeologist]
+[03Apr2025 01:45:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]
+[03Apr2025 01:46:52.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
+[03Apr2025 01:49:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Enchanter]
+[03Apr2025 01:51:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]

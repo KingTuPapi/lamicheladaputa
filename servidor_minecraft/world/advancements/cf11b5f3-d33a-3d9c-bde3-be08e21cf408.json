@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/black_upholstered_mangrove_stool": {
     "criteria": {
       "has_black_wool": "2025-04-01 16:41:02 +0000"
@@ -770,6 +776,12 @@
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-01 16:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -1088,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/green_mangrove_table": {
     "criteria": {
       "has_green_carpet": "2025-04-03 01:37:55 +0000"
@@ -1383,6 +1401,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-01 16:18:33 +0000"
@@ -1494,6 +1518,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-04-01 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -1740,6 +1770,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-01 17:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -2022,6 +2058,12 @@
   "blue_skies:recipes/blue_skies_misc/falsite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-04-01 18:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -2420,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
     "criteria": {
       "has_resource": "2025-04-01 18:17:15 +0000"
@@ -2688,6 +2736,12 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-04-01 16:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -3412,6 +3466,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-03 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-01 16:58:53 +0000"
@@ -3439,6 +3499,12 @@
   "blue_skies:get_diopside": {
     "criteria": {
       "obtain_material": "2025-04-01 18:17:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -3475,6 +3541,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/black_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -4653,6 +4725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-04-01 16:16:34 +0000"
@@ -5117,6 +5195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/black_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 16:18:15 +0000"
@@ -5168,6 +5252,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_fir_planks": "2025-04-01 16:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
@@ -5918,6 +6008,12 @@
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:23:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:46:24 +0000"
     },
     "done": true
   },
