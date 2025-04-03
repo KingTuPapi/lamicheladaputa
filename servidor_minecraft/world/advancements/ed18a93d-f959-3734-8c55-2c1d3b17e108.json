@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/horizonite_nugget_from_blasting_horizonite_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-03 01:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-02 21:09:30 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-01 16:32:28 +0000"
@@ -698,6 +710,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-01 18:06:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/horizonite_nugget_from_smelting_horizonite_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-03 01:28:44 +0000"
     },
     "done": true
   },
@@ -1082,6 +1100,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:00:32 +0000"
@@ -1317,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/green_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:00:32 +0000"
@@ -1437,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/valhelsia_furniture/cyan_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-01 16:00:32 +0000"
@@ -1536,6 +1572,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-01 16:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
     },
     "done": true
   },
@@ -1803,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-01 16:17:26 +0000"
@@ -1890,6 +1938,12 @@
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-04-01 15:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-03 01:31:36 +0000"
     },
     "done": true
   },
@@ -1989,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-03 01:38:40 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
       "has_leggings": "2025-04-01 15:45:42 +0000",
@@ -2003,6 +2063,12 @@
       "has_hoe": "2025-04-01 15:45:42 +0000",
       "has_boots": "2025-04-01 15:45:42 +0000",
       "has_pickaxe": "2025-04-01 15:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
     },
     "done": true
   },
@@ -2075,6 +2141,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-01 17:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
     },
     "done": true
   },
@@ -2604,6 +2676,12 @@
   "valhelsia_furniture:recipes/valhelsia_furniture/blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-03 01:35:21 +0000"
     },
     "done": true
   },
@@ -3596,6 +3674,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-03 01:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-01 16:49:37 +0000"
@@ -3897,6 +3981,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 17:22:36 +0000"
@@ -4128,6 +4218,12 @@
   "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-04-01 16:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-03 01:31:36 +0000"
     },
     "done": true
   },
@@ -4715,6 +4811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-03 01:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-01 16:03:39 +0000"
@@ -5132,6 +5234,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-01 16:20:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-03 01:35:21 +0000"
     },
     "done": true
   },

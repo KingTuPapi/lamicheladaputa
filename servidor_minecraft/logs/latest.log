@@ -801,3 +801,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 01:09:06.728] [Server thread/INFO] [tombstone/]: The player Dinosaur_Meap has successfully been saved
 [03Apr2025 01:17:17.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
 [03Apr2025 01:23:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has made the advancement [Purple Power!]
+[03Apr2025 01:26:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KingTuPapi> zzzzzz
+[03Apr2025 01:28:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to Dinosaur_Meap]
+[03Apr2025 01:30:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Mine? Mine? Mine?]
+[03Apr2025 01:30:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Mine? Mine? Mine?]
+[03Apr2025 01:32:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to DarkChino27]
+[03Apr2025 01:32:56.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
+[03Apr2025 01:32:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[03Apr2025 01:33:18.612] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c50e186[id=<null>,name=Dinosaur_Meap,properties={},legacy=false] (/127.248.64.214:57877) lost connection: Disconnected
+[03Apr2025 01:34:57.322] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@706bd38c
+[03Apr2025 01:34:57.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dinosaur_Meap[/127.248.64.214:53731] logged in with entity id 177055 at (-975.483564091979, 18.0, -1471.2846849863413)
+[03Apr2025 01:34:57.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dinosaur_Meap
+[03Apr2025 01:34:57.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dinosaur_Meap
+[03Apr2025 01:34:57.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dinosaur_Meap
+[03Apr2025 01:34:57.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dinosaur_Meap
+[03Apr2025 01:34:57.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dinosaur_Meap
+[03Apr2025 01:34:57.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dinosaur_Meap
+[03Apr2025 01:34:57.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dinosaur_Meap
+[03Apr2025 01:34:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap joined the game
+[03Apr2025 01:34:57.416] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Apr2025 01:34:57.417] [Server thread/INFO] [Jade/]: Syncing config to Dinosaur_Meap (3c4dccdf-53b0-3ef6-9a6e-2b052e9511a1)
+[03Apr2025 01:35:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
+[03Apr2025 01:35:13.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/175413, l='ServerLevel[world]', x=-823.34, y=51.01, z=-1696.70]
+[03Apr2025 01:36:03.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap has reached the goal [Bone Crusher]
+[03Apr2025 01:36:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dinosaur_Meap: Teleported Dinosaur_Meap to DarkChino27]
+[03Apr2025 01:37:12.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinosaur_Meap lost connection: Timed out
+[03Apr2025 01:37:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dinosaur_Meap left the game
+[03Apr2025 01:39:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to DarkChino27]
+[03Apr2025 01:39:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Amateur Archaeologist]
