@@ -878,6 +878,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-02 01:53:52 +0000",
       "minecraft:skeleton": "2025-04-01 16:20:47 +0000",
+      "minecraft:vindicator": "2025-04-03 00:42:12 +0000",
       "minecraft:spider": "2025-04-01 16:50:04 +0000",
       "minecraft:creeper": "2025-04-02 01:16:09 +0000",
       "minecraft:cave_spider": "2025-04-02 02:01:55 +0000",
@@ -2054,6 +2055,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 00:41:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-01 16:11:19 +0000"
@@ -3018,6 +3025,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-01 16:53:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 00:41:37 +0000"
     },
     "done": true
   },

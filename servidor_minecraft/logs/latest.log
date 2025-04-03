@@ -722,3 +722,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:32:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has reached the goal [Easter]
 [03Apr2025 00:32:09.416] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [03Apr2025 00:32:09.417] [Server thread/INFO] [Jade/]: Syncing config to EctorLavo (3a0b758c-99e2-335f-a81f-21c3c25c1a4f)
+[03Apr2025 00:33:18.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EctorLavo lost connection: Disconnected
+[03Apr2025 00:33:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo left the game
+[03Apr2025 00:33:25.065] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72a40d1c
+[03Apr2025 00:33:25.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EctorLavo[/127.248.78.55:38561] logged in with entity id 73313 at (-554.8391255669222, 67.0, -19.067669924617363)
+[03Apr2025 00:33:25.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EctorLavo
+[03Apr2025 00:33:25.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EctorLavo
+[03Apr2025 00:33:25.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EctorLavo
+[03Apr2025 00:33:25.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EctorLavo
+[03Apr2025 00:33:25.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EctorLavo
+[03Apr2025 00:33:25.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EctorLavo
+[03Apr2025 00:33:25.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EctorLavo
+[03Apr2025 00:33:25.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo joined the game
+[03Apr2025 00:33:25.104] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Apr2025 00:33:25.105] [Server thread/INFO] [Jade/]: Syncing config to EctorLavo (3a0b758c-99e2-335f-a81f-21c3c25c1a4f)
+[03Apr2025 00:36:14.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Not Today, Thank You]
+[03Apr2025 00:36:21.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Knowledge of Death]
+[03Apr2025 00:36:21.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [A Strange Grave Dust]
+[03Apr2025 00:36:31.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Ashes 'n Bones]
+[03Apr2025 00:37:26.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e94c9d7
+[03Apr2025 00:37:26.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KingTuPapi[/127.195.21.180:36253] logged in with entity id 75509 at (-141.88293486678867, 121.0, 521.6613802359452)
+[03Apr2025 00:37:26.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KingTuPapi
+[03Apr2025 00:37:26.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KingTuPapi
+[03Apr2025 00:37:26.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KingTuPapi
+[03Apr2025 00:37:26.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KingTuPapi
+[03Apr2025 00:37:26.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KingTuPapi
+[03Apr2025 00:37:26.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KingTuPapi
+[03Apr2025 00:37:26.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KingTuPapi
+[03Apr2025 00:37:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi joined the game
+[03Apr2025 00:37:26.212] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[03Apr2025 00:37:26.213] [Server thread/INFO] [Jade/]: Syncing config to KingTuPapi (ed18a93d-f959-3734-8c55-2c1d3b17e108)
+[03Apr2025 00:40:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Teleported KingTuPapi to EctorLavo]
+[03Apr2025 00:41:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarkChino27: Teleported DarkChino27 to KingTuPapi]
+[03Apr2025 00:41:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has made the advancement [Voluntary Exile]
+[03Apr2025 00:41:37.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has made the advancement [Knowledge of Death]
+[03Apr2025 00:41:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has made the advancement [Ambush]
+[03Apr2025 00:41:56.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi was slain by Guard
+[03Apr2025 00:41:56.336] [Server thread/INFO] [tombstone/]: The player KingTuPapi has successfully been saved
+[03Apr2025 00:42:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KingTuPapi has reached the goal [Here They Come]
+[03Apr2025 00:42:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set own game mode to Creative Mode]
+[03Apr2025 00:42:24.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KingTuPapi: Set own game mode to Survival Mode]
+[03Apr2025 00:43:06.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Ol' Betsy]
+[03Apr2025 00:43:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkChino27 has made the advancement [Take Aim]
+[03Apr2025 00:43:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EctorLavo has made the advancement [Take Aim]

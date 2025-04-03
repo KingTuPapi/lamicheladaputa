@@ -3125,6 +3125,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-03 00:41:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/black_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-01 16:17:26 +0000"
@@ -4017,6 +4023,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
     "criteria": {
       "has_bone": "2025-04-01 15:46:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-03 00:42:12 +0000"
     },
     "done": true
   },
